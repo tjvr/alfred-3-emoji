@@ -21,6 +21,8 @@
 				<false/>
 			</dict>
 		</array>
+		<key>5846C71A-2212-482B-9005-87CC49431022</key>
+		<array/>
 	</dict>
 	<key>createdby</key>
 	<string>Tim Radvan</string>
@@ -36,7 +38,7 @@
 			<key>config</key>
 			<dict>
 				<key>autopaste</key>
-				<false/>
+				<true/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
 				<key>transient</key>
