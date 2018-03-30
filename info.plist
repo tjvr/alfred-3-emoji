@@ -102,7 +102,15 @@ cat alfred-emoji.json
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>An Alfred workflow for finding emoji.
+
+• Up-to-date as of early 2018; supports Emoji 11.0
+• Uses Alfred's built-in filtering
+• No extra apps or scripts required!
+
+Includes GitHub/Slack-style colon codes such as `:slight_smile:` where relevant.
+
+Includes emoji aliases from https://github.com/muan/emojilib, so you can e.g. search for "mind blown" to find 🤯 “Exploding Head”.</string>
 	<key>uidata</key>
 	<dict>
 		<key>165BDD7B-58D3-43C1-AF84-81257EE4666F</key>
@@ -120,6 +128,8 @@ cat alfred-emoji.json
 			<integer>160</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>0.1.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
