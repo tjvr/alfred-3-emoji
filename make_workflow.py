@@ -106,7 +106,7 @@ def item(info):
             path = info['path'],
         ),
         arg = info['char'],
-        match = " ".join(dedupe(match(info))),
+        match = " ".join(dedupe(" ".join(match(info)).split(" "))),
     )
 items = map(item, emojis.values())
 

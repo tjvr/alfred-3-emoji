@@ -61,7 +61,7 @@
         "path": "icons/sweat_smile.png"
       },
       "arg": "😅",
-      "match": "sweat_smile sweat smile face hot happy laugh sweat smile relief 😅"
+      "match": "sweat_smile sweat smile face hot happy laugh relief 😅"
     },
     {
       "title": "grinning squinting face",
@@ -115,7 +115,7 @@
         "path": "icons/heart_eyes.png"
       },
       "arg": "😍",
-      "match": "heart_eyes heart eyes face love like affection valentines infatuation crush heart 😍"
+      "match": "heart_eyes heart eyes face love like affection valentines infatuation crush 😍"
     },
     {
       "title": "face blowing a kiss",
@@ -178,7 +178,7 @@
         "path": "icons/slightly_smiling_face.png"
       },
       "arg": "🙂",
-      "match": "slightly smiling face face smile 🙂"
+      "match": "slightly smiling face smile 🙂"
     },
     {
       "title": "hugging face",
@@ -223,7 +223,7 @@
         "path": "icons/neutral_face.png"
       },
       "arg": "😐",
-      "match": "neutral_face neutral face indifference meh :| neutral 😐"
+      "match": "neutral_face neutral face indifference meh :| 😐"
     },
     {
       "title": "expressionless face",
@@ -232,7 +232,7 @@
         "path": "icons/expressionless.png"
       },
       "arg": "😑",
-      "match": "expressionless face indifferent - - meh deadpan 😑"
+      "match": "expressionless face indifferent - meh deadpan 😑"
     },
     {
       "title": "face without mouth",
@@ -295,7 +295,7 @@
         "path": "icons/zipper_mouth_face.png"
       },
       "arg": "🤐",
-      "match": "zipper mouth face face sealed zipper secret 🤐"
+      "match": "zipper mouth face sealed secret 🤐"
     },
     {
       "title": "hushed face",
@@ -349,7 +349,7 @@
         "path": "icons/stuck_out_tongue.png"
       },
       "arg": "😛",
-      "match": "stuck_out_tongue stuck out tongue face prank childish playful mischievous smile tongue 😛"
+      "match": "stuck_out_tongue stuck out tongue face prank childish playful mischievous smile 😛"
     },
     {
       "title": "winking face with tongue",
@@ -358,7 +358,7 @@
         "path": "icons/stuck_out_tongue_winking_eye.png"
       },
       "arg": "😜",
-      "match": "stuck_out_tongue_winking_eye stuck out tongue winking eye face prank childish playful mischievous smile wink tongue 😜"
+      "match": "stuck_out_tongue_winking_eye stuck out tongue winking eye face prank childish playful mischievous smile wink 😜"
     },
     {
       "title": "squinting face with tongue",
@@ -367,7 +367,7 @@
         "path": "icons/stuck_out_tongue_closed_eyes.png"
       },
       "arg": "😝",
-      "match": "stuck_out_tongue_closed_eyes stuck out tongue closed eyes face prank playful mischievous smile tongue 😝"
+      "match": "stuck_out_tongue_closed_eyes stuck out tongue closed eyes face prank playful mischievous smile 😝"
     },
     {
       "title": "drooling face",
@@ -376,7 +376,7 @@
         "path": "icons/drooling_face.png"
       },
       "arg": "🤤",
-      "match": "drooling face face 🤤"
+      "match": "drooling face 🤤"
     },
     {
       "title": "unamused face",
@@ -421,7 +421,7 @@
         "path": "icons/upside_down_face.png"
       },
       "arg": "🙃",
-      "match": "upside down face face flipped silly smile 🙃"
+      "match": "upside down face flipped silly smile 🙃"
     },
     {
       "title": "money-mouth face",
@@ -430,7 +430,7 @@
         "path": "icons/money_mouth_face.png"
       },
       "arg": "🤑",
-      "match": "money mouth face face rich dollar money 🤑"
+      "match": "money mouth face rich dollar 🤑"
     },
     {
       "title": "astonished face",
@@ -448,7 +448,7 @@
         "path": "icons/frowning_face.png"
       },
       "arg": "☹",
-      "match": "frowning face face sad upset frown ☹"
+      "match": "frowning face sad upset frown ☹"
     },
     {
       "title": "slightly frowning face",
@@ -457,7 +457,7 @@
         "path": "icons/slightly_frowning_face.png"
       },
       "arg": "🙁",
-      "match": "slightly frowning face face frowning disappointed sad upset 🙁"
+      "match": "slightly frowning face disappointed sad upset 🙁"
     },
     {
       "title": "confounded face",
@@ -574,7 +574,7 @@
         "path": "icons/cold_sweat.png"
       },
       "arg": "😰",
-      "match": "cold_sweat cold sweat face nervous sweat 😰"
+      "match": "cold_sweat cold sweat face nervous 😰"
     },
     {
       "title": "face screaming in fear",
@@ -628,7 +628,7 @@
         "path": "icons/dizzy_face.png"
       },
       "arg": "😵",
-      "match": "dizzy_face dizzy face spent unconscious xox dizzy 😵"
+      "match": "dizzy_face dizzy face spent unconscious xox 😵"
     },
     {
       "title": "pouting face",
@@ -673,7 +673,7 @@
         "path": "icons/face_with_thermometer.png"
       },
       "arg": "🤒",
-      "match": "face with thermometer sick temperature thermometer cold fever 🤒"
+      "match": "face with thermometer sick temperature cold fever 🤒"
     },
     {
       "title": "face with head-bandage",
@@ -682,7 +682,7 @@
         "path": "icons/face_with_head_bandage.png"
       },
       "arg": "🤕",
-      "match": "face with head bandage injured clumsy bandage hurt 🤕"
+      "match": "face with head bandage injured clumsy hurt 🤕"
     },
     {
       "title": "nauseated face",
@@ -691,7 +691,7 @@
         "path": "icons/nauseated_face.png"
       },
       "arg": "🤢",
-      "match": "nauseated face face vomit gross green sick throw up ill 🤢"
+      "match": "nauseated face vomit gross green sick throw up ill 🤢"
     },
     {
       "title": "face vomiting",
@@ -709,7 +709,7 @@
         "path": "icons/sneezing_face.png"
       },
       "arg": "🤧",
-      "match": "sneezing face face gesundheit sneeze sick allergy 🤧"
+      "match": "sneezing face gesundheit sneeze sick allergy 🤧"
     },
     {
       "title": "smiling face with halo",
@@ -727,7 +727,7 @@
         "path": "icons/cowboy_hat_face.png"
       },
       "arg": "🤠",
-      "match": "cowboy hat face face cowgirl hat 🤠"
+      "match": "cowboy hat face cowgirl 🤠"
     },
     {
       "title": "partying face",
@@ -763,7 +763,7 @@
         "path": "icons/lying_face.png"
       },
       "arg": "🤥",
-      "match": "lying face face lie pinocchio 🤥"
+      "match": "lying face lie pinocchio 🤥"
     },
     {
       "title": "shushing face",
@@ -799,7 +799,7 @@
         "path": "icons/nerd_face.png"
       },
       "arg": "🤓",
-      "match": "nerd face face nerdy geek dork 🤓"
+      "match": "nerd face nerdy geek dork 🤓"
     },
     {
       "title": "smiling face with horns",
@@ -826,7 +826,7 @@
         "path": "icons/clown_face.png"
       },
       "arg": "🤡",
-      "match": "clown face face 🤡"
+      "match": "clown face 🤡"
     },
     {
       "title": "ogre",
@@ -835,7 +835,7 @@
         "path": "icons/japanese_ogre.png"
       },
       "arg": "👹",
-      "match": "japanese_ogre japanese ogre monster red mask halloween scary creepy devil demon japanese ogre 👹"
+      "match": "japanese_ogre japanese ogre monster red mask halloween scary creepy devil demon 👹"
     },
     {
       "title": "goblin",
@@ -844,7 +844,7 @@
         "path": "icons/japanese_goblin.png"
       },
       "arg": "👺",
-      "match": "japanese_goblin japanese goblin red evil mask monster scary creepy japanese goblin 👺"
+      "match": "japanese_goblin japanese goblin red evil mask monster scary creepy 👺"
     },
     {
       "title": "skull",
@@ -907,7 +907,7 @@
         "path": "icons/poop.png"
       },
       "arg": "💩",
-      "match": "hankey poop shit poop hankey shitface fail turd shit 💩"
+      "match": "hankey poop shit shitface fail turd 💩"
     },
     {
       "title": "grinning cat face",
@@ -925,7 +925,7 @@
         "path": "icons/smile_cat.png"
       },
       "arg": "😸",
-      "match": "smile_cat smile cat animal cats smile 😸"
+      "match": "smile_cat smile cat animal cats 😸"
     },
     {
       "title": "cat face with tears of joy",
@@ -943,7 +943,7 @@
         "path": "icons/heart_eyes_cat.png"
       },
       "arg": "😻",
-      "match": "heart_eyes_cat heart eyes cat animal love like affection cats valentines heart 😻"
+      "match": "heart_eyes_cat heart eyes cat animal love like affection cats valentines 😻"
     },
     {
       "title": "cat face with wry smile",
@@ -952,7 +952,7 @@
         "path": "icons/smirk_cat.png"
       },
       "arg": "😼",
-      "match": "smirk_cat smirk cat animal cats smirk 😼"
+      "match": "smirk_cat smirk cat animal cats 😼"
     },
     {
       "title": "kissing cat face",
@@ -970,7 +970,7 @@
         "path": "icons/scream_cat.png"
       },
       "arg": "🙀",
-      "match": "scream_cat scream cat animal cats munch scared scream 🙀"
+      "match": "scream_cat scream cat animal cats munch scared 🙀"
     },
     {
       "title": "crying cat face",
@@ -1114,7 +1114,7 @@
         "path": "icons/man_health_worker.png"
       },
       "arg": "👨‍⚕️",
-      "match": "man health worker doctor nurse therapist healthcare man human 👨‍⚕️"
+      "match": "man health worker doctor nurse therapist healthcare human 👨‍⚕️"
     },
     {
       "title": "woman health worker",
@@ -1123,7 +1123,7 @@
         "path": "icons/woman_health_worker.png"
       },
       "arg": "👩‍⚕️",
-      "match": "woman health worker doctor nurse therapist healthcare woman human 👩‍⚕️"
+      "match": "woman health worker doctor nurse therapist healthcare human 👩‍⚕️"
     },
     {
       "title": "man student",
@@ -1132,7 +1132,7 @@
         "path": "icons/man_student.png"
       },
       "arg": "👨‍🎓",
-      "match": "man student graduate man human 👨‍🎓"
+      "match": "man student graduate human 👨‍🎓"
     },
     {
       "title": "woman student",
@@ -1141,7 +1141,7 @@
         "path": "icons/woman_student.png"
       },
       "arg": "👩‍🎓",
-      "match": "woman student graduate woman human 👩‍🎓"
+      "match": "woman student graduate human 👩‍🎓"
     },
     {
       "title": "man teacher",
@@ -1150,7 +1150,7 @@
         "path": "icons/man_teacher.png"
       },
       "arg": "👨‍🏫",
-      "match": "man teacher instructor professor man human 👨‍🏫"
+      "match": "man teacher instructor professor human 👨‍🏫"
     },
     {
       "title": "woman teacher",
@@ -1159,7 +1159,7 @@
         "path": "icons/woman_teacher.png"
       },
       "arg": "👩‍🏫",
-      "match": "woman teacher instructor professor woman human 👩‍🏫"
+      "match": "woman teacher instructor professor human 👩‍🏫"
     },
     {
       "title": "man judge",
@@ -1168,7 +1168,7 @@
         "path": "icons/man_judge.png"
       },
       "arg": "👨‍⚖️",
-      "match": "man judge justice court man human 👨‍⚖️"
+      "match": "man judge justice court human 👨‍⚖️"
     },
     {
       "title": "woman judge",
@@ -1177,7 +1177,7 @@
         "path": "icons/woman_judge.png"
       },
       "arg": "👩‍⚖️",
-      "match": "woman judge justice court woman human 👩‍⚖️"
+      "match": "woman judge justice court human 👩‍⚖️"
     },
     {
       "title": "man farmer",
@@ -1186,7 +1186,7 @@
         "path": "icons/man_farmer.png"
       },
       "arg": "👨‍🌾",
-      "match": "man farmer rancher gardener man human 👨‍🌾"
+      "match": "man farmer rancher gardener human 👨‍🌾"
     },
     {
       "title": "woman farmer",
@@ -1195,7 +1195,7 @@
         "path": "icons/woman_farmer.png"
       },
       "arg": "👩‍🌾",
-      "match": "woman farmer rancher gardener woman human 👩‍🌾"
+      "match": "woman farmer rancher gardener human 👩‍🌾"
     },
     {
       "title": "man cook",
@@ -1204,7 +1204,7 @@
         "path": "icons/man_cook.png"
       },
       "arg": "👨‍🍳",
-      "match": "man cook chef man human 👨‍🍳"
+      "match": "man cook chef human 👨‍🍳"
     },
     {
       "title": "woman cook",
@@ -1213,7 +1213,7 @@
         "path": "icons/woman_cook.png"
       },
       "arg": "👩‍🍳",
-      "match": "woman cook chef woman human 👩‍🍳"
+      "match": "woman cook chef human 👩‍🍳"
     },
     {
       "title": "man mechanic",
@@ -1222,7 +1222,7 @@
         "path": "icons/man_mechanic.png"
       },
       "arg": "👨‍🔧",
-      "match": "man mechanic plumber man human wrench 👨‍🔧"
+      "match": "man mechanic plumber human wrench 👨‍🔧"
     },
     {
       "title": "woman mechanic",
@@ -1231,7 +1231,7 @@
         "path": "icons/woman_mechanic.png"
       },
       "arg": "👩‍🔧",
-      "match": "woman mechanic plumber woman human wrench 👩‍🔧"
+      "match": "woman mechanic plumber human wrench 👩‍🔧"
     },
     {
       "title": "man factory worker",
@@ -1240,7 +1240,7 @@
         "path": "icons/man_factory_worker.png"
       },
       "arg": "👨‍🏭",
-      "match": "man factory worker assembly industrial man human 👨‍🏭"
+      "match": "man factory worker assembly industrial human 👨‍🏭"
     },
     {
       "title": "woman factory worker",
@@ -1249,7 +1249,7 @@
         "path": "icons/woman_factory_worker.png"
       },
       "arg": "👩‍🏭",
-      "match": "woman factory worker assembly industrial woman human 👩‍🏭"
+      "match": "woman factory worker assembly industrial human 👩‍🏭"
     },
     {
       "title": "man office worker",
@@ -1258,7 +1258,7 @@
         "path": "icons/man_office_worker.png"
       },
       "arg": "👨‍💼",
-      "match": "man office worker business manager man human 👨‍💼"
+      "match": "man office worker business manager human 👨‍💼"
     },
     {
       "title": "woman office worker",
@@ -1267,7 +1267,7 @@
         "path": "icons/woman_office_worker.png"
       },
       "arg": "👩‍💼",
-      "match": "woman office worker business manager woman human 👩‍💼"
+      "match": "woman office worker business manager human 👩‍💼"
     },
     {
       "title": "man scientist",
@@ -1276,7 +1276,7 @@
         "path": "icons/man_scientist.png"
       },
       "arg": "👨‍🔬",
-      "match": "man scientist biologist chemist engineer physicist man human 👨‍🔬"
+      "match": "man scientist biologist chemist engineer physicist human 👨‍🔬"
     },
     {
       "title": "woman scientist",
@@ -1285,7 +1285,7 @@
         "path": "icons/woman_scientist.png"
       },
       "arg": "👩‍🔬",
-      "match": "woman scientist biologist chemist engineer physicist woman human 👩‍🔬"
+      "match": "woman scientist biologist chemist engineer physicist human 👩‍🔬"
     },
     {
       "title": "man technologist",
@@ -1294,7 +1294,7 @@
         "path": "icons/man_technologist.png"
       },
       "arg": "👨‍💻",
-      "match": "man technologist coder developer engineer programmer software man human laptop computer 👨‍💻"
+      "match": "man technologist coder developer engineer programmer software human laptop computer 👨‍💻"
     },
     {
       "title": "woman technologist",
@@ -1303,7 +1303,7 @@
         "path": "icons/woman_technologist.png"
       },
       "arg": "👩‍💻",
-      "match": "woman technologist coder developer engineer programmer software woman human laptop computer 👩‍💻"
+      "match": "woman technologist coder developer engineer programmer software human laptop computer 👩‍💻"
     },
     {
       "title": "man singer",
@@ -1312,7 +1312,7 @@
         "path": "icons/man_singer.png"
       },
       "arg": "👨‍🎤",
-      "match": "man singer rockstar entertainer man human 👨‍🎤"
+      "match": "man singer rockstar entertainer human 👨‍🎤"
     },
     {
       "title": "woman singer",
@@ -1321,7 +1321,7 @@
         "path": "icons/woman_singer.png"
       },
       "arg": "👩‍🎤",
-      "match": "woman singer rockstar entertainer woman human 👩‍🎤"
+      "match": "woman singer rockstar entertainer human 👩‍🎤"
     },
     {
       "title": "man artist",
@@ -1330,7 +1330,7 @@
         "path": "icons/man_artist.png"
       },
       "arg": "👨‍🎨",
-      "match": "man artist painter man human 👨‍🎨"
+      "match": "man artist painter human 👨‍🎨"
     },
     {
       "title": "woman artist",
@@ -1339,7 +1339,7 @@
         "path": "icons/woman_artist.png"
       },
       "arg": "👩‍🎨",
-      "match": "woman artist painter woman human 👩‍🎨"
+      "match": "woman artist painter human 👩‍🎨"
     },
     {
       "title": "man pilot",
@@ -1348,7 +1348,7 @@
         "path": "icons/man_pilot.png"
       },
       "arg": "👨‍✈️",
-      "match": "man pilot aviator plane man human 👨‍✈️"
+      "match": "man pilot aviator plane human 👨‍✈️"
     },
     {
       "title": "woman pilot",
@@ -1357,7 +1357,7 @@
         "path": "icons/woman_pilot.png"
       },
       "arg": "👩‍✈️",
-      "match": "woman pilot aviator plane woman human 👩‍✈️"
+      "match": "woman pilot aviator plane human 👩‍✈️"
     },
     {
       "title": "man astronaut",
@@ -1366,7 +1366,7 @@
         "path": "icons/man_astronaut.png"
       },
       "arg": "👨‍🚀",
-      "match": "man astronaut space rocket man human 👨‍🚀"
+      "match": "man astronaut space rocket human 👨‍🚀"
     },
     {
       "title": "woman astronaut",
@@ -1375,7 +1375,7 @@
         "path": "icons/woman_astronaut.png"
       },
       "arg": "👩‍🚀",
-      "match": "woman astronaut space rocket woman human 👩‍🚀"
+      "match": "woman astronaut space rocket human 👩‍🚀"
     },
     {
       "title": "man firefighter",
@@ -1384,7 +1384,7 @@
         "path": "icons/man_firefighter.png"
       },
       "arg": "👨‍🚒",
-      "match": "man firefighter fireman man human 👨‍🚒"
+      "match": "man firefighter fireman human 👨‍🚒"
     },
     {
       "title": "woman firefighter",
@@ -1393,7 +1393,7 @@
         "path": "icons/woman_firefighter.png"
       },
       "arg": "👩‍🚒",
-      "match": "woman firefighter fireman woman human 👩‍🚒"
+      "match": "woman firefighter fireman human 👩‍🚒"
     },
     {
       "title": "police officer",
@@ -1429,7 +1429,7 @@
         "path": "icons/male_detective.png"
       },
       "arg": "🕵",
-      "match": "male detective human spy detective 🕵"
+      "match": "male detective human spy 🕵"
     },
     {
       "title": "man detective",
@@ -1447,7 +1447,7 @@
         "path": "icons/female_detective.png"
       },
       "arg": "🕵️‍♀️",
-      "match": "female detective human spy detective female woman 🕵️‍♀️"
+      "match": "female detective human spy woman 🕵️‍♀️"
     },
     {
       "title": "guard",
@@ -1483,7 +1483,7 @@
         "path": "icons/construction_worker_man.png"
       },
       "arg": "👷",
-      "match": "construction_worker construction worker man male human wip guy build construction worker labor 👷"
+      "match": "construction_worker construction worker man male human wip guy build labor 👷"
     },
     {
       "title": "man construction worker",
@@ -1501,7 +1501,7 @@
         "path": "icons/construction_worker_woman.png"
       },
       "arg": "👷‍♀️",
-      "match": "construction worker woman female human wip build construction worker labor woman 👷‍♀️"
+      "match": "construction worker woman female human wip build labor 👷‍♀️"
     },
     {
       "title": "prince",
@@ -1546,7 +1546,7 @@
         "path": "icons/woman_with_turban.png"
       },
       "arg": "👳‍♀️",
-      "match": "woman with turban female indian hinduism arabs woman 👳‍♀️"
+      "match": "woman with turban female indian hinduism arabs 👳‍♀️"
     },
     {
       "title": "man with Chinese cap",
@@ -1573,7 +1573,7 @@
         "path": "icons/bearded_person.png"
       },
       "arg": "🧔",
-      "match": "bearded person person bewhiskered 🧔"
+      "match": "bearded person bewhiskered 🧔"
     },
     {
       "title": "blond-haired person",
@@ -1582,7 +1582,7 @@
         "path": "icons/blonde_man.png"
       },
       "arg": "👱",
-      "match": "person_with_blond_hair blonde man man male boy blonde guy person 👱"
+      "match": "person_with_blond_hair blonde man male boy guy person 👱"
     },
     {
       "title": "blond-haired man",
@@ -1600,7 +1600,7 @@
         "path": "icons/blonde_woman.png"
       },
       "arg": "👱‍♀️",
-      "match": "blonde woman woman female girl blonde person 👱‍♀️"
+      "match": "blonde woman female girl person 👱‍♀️"
     },
     {
       "title": "man, red haired",
@@ -1690,7 +1690,7 @@
         "path": "icons/bride_with_veil.png"
       },
       "arg": "👰",
-      "match": "bride_with_veil bride with veil couple marriage wedding woman bride 👰"
+      "match": "bride_with_veil bride with veil couple marriage wedding woman 👰"
     },
     {
       "title": "pregnant woman",
@@ -1834,7 +1834,7 @@
         "path": "icons/woman_fairy.png"
       },
       "arg": "🧚‍♀️",
-      "match": "woman fairy woman female 🧚‍♀️"
+      "match": "woman fairy female 🧚‍♀️"
     },
     {
       "title": "man fairy",
@@ -1843,7 +1843,7 @@
         "path": "icons/man_fairy.png"
       },
       "arg": "🧚‍♂️",
-      "match": "man fairy man male 🧚‍♂️"
+      "match": "man fairy male 🧚‍♂️"
     },
     {
       "title": "vampire",
@@ -1861,7 +1861,7 @@
         "path": "icons/woman_vampire.png"
       },
       "arg": "🧛‍♀️",
-      "match": "woman vampire woman female 🧛‍♀️"
+      "match": "woman vampire female 🧛‍♀️"
     },
     {
       "title": "man vampire",
@@ -1870,7 +1870,7 @@
         "path": "icons/man_vampire.png"
       },
       "arg": "🧛‍♂️",
-      "match": "man vampire man male dracula 🧛‍♂️"
+      "match": "man vampire male dracula 🧛‍♂️"
     },
     {
       "title": "merperson",
@@ -1915,7 +1915,7 @@
         "path": "icons/woman_elf.png"
       },
       "arg": "🧝‍♀️",
-      "match": "woman elf woman female 🧝‍♀️"
+      "match": "woman elf female 🧝‍♀️"
     },
     {
       "title": "man elf",
@@ -1924,7 +1924,7 @@
         "path": "icons/man_elf.png"
       },
       "arg": "🧝‍♂️",
-      "match": "man elf man male 🧝‍♂️"
+      "match": "man elf male 🧝‍♂️"
     },
     {
       "title": "genie",
@@ -1942,7 +1942,7 @@
         "path": "icons/woman_genie.png"
       },
       "arg": "🧞‍♀️",
-      "match": "woman genie woman female 🧞‍♀️"
+      "match": "woman genie female 🧞‍♀️"
     },
     {
       "title": "man genie",
@@ -1951,7 +1951,7 @@
         "path": "icons/man_genie.png"
       },
       "arg": "🧞‍♂️",
-      "match": "man genie man male 🧞‍♂️"
+      "match": "man genie male 🧞‍♂️"
     },
     {
       "title": "zombie",
@@ -1969,7 +1969,7 @@
         "path": "icons/woman_zombie.png"
       },
       "arg": "🧟‍♀️",
-      "match": "woman zombie woman female undead walking dead 🧟‍♀️"
+      "match": "woman zombie female undead walking dead 🧟‍♀️"
     },
     {
       "title": "man zombie",
@@ -1978,7 +1978,7 @@
         "path": "icons/man_zombie.png"
       },
       "arg": "🧟‍♂️",
-      "match": "man zombie man male dracula undead walking dead 🧟‍♂️"
+      "match": "man zombie male dracula undead walking dead 🧟‍♂️"
     },
     {
       "title": "person frowning",
@@ -1987,7 +1987,7 @@
         "path": "icons/frowning_woman.png"
       },
       "arg": "🙍",
-      "match": "person_frowning frowning woman female girl woman sad depressed discouraged unhappy 🙍"
+      "match": "person_frowning frowning woman female girl sad depressed discouraged unhappy 🙍"
     },
     {
       "title": "man frowning",
@@ -1996,7 +1996,7 @@
         "path": "icons/frowning_man.png"
       },
       "arg": "🙍‍♂️",
-      "match": "frowning man male boy man sad depressed discouraged unhappy 🙍‍♂️"
+      "match": "frowning man male boy sad depressed discouraged unhappy 🙍‍♂️"
     },
     {
       "title": "woman frowning",
@@ -2014,7 +2014,7 @@
         "path": "icons/pouting_woman.png"
       },
       "arg": "🙎",
-      "match": "person_with_pouting_face pouting woman female girl woman 🙎"
+      "match": "person_with_pouting_face pouting woman female girl 🙎"
     },
     {
       "title": "man pouting",
@@ -2023,7 +2023,7 @@
         "path": "icons/pouting_man.png"
       },
       "arg": "🙎‍♂️",
-      "match": "pouting man male boy man 🙎‍♂️"
+      "match": "pouting man male boy 🙎‍♂️"
     },
     {
       "title": "woman pouting",
@@ -2041,7 +2041,7 @@
         "path": "icons/no_good_woman.png"
       },
       "arg": "🙅",
-      "match": "no_good no good woman female girl woman nope 🙅"
+      "match": "no_good no good woman female girl nope 🙅"
     },
     {
       "title": "man gesturing NO",
@@ -2050,7 +2050,7 @@
         "path": "icons/no_good_man.png"
       },
       "arg": "🙅‍♂️",
-      "match": "no good man male boy man nope 🙅‍♂️"
+      "match": "no good man male boy nope 🙅‍♂️"
     },
     {
       "title": "woman gesturing NO",
@@ -2068,7 +2068,7 @@
         "path": "icons/ok_woman.png"
       },
       "arg": "🙆",
-      "match": "ok_woman ok woman women girl female pink human woman 🙆"
+      "match": "ok_woman ok woman women girl female pink human 🙆"
     },
     {
       "title": "man gesturing OK",
@@ -2077,7 +2077,7 @@
         "path": "icons/ok_man.png"
       },
       "arg": "🙆‍♂️",
-      "match": "ok man men boy male blue human man 🙆‍♂️"
+      "match": "ok man men boy male blue human 🙆‍♂️"
     },
     {
       "title": "woman gesturing OK",
@@ -2095,7 +2095,7 @@
         "path": "icons/tipping_hand_woman.png"
       },
       "arg": "💁",
-      "match": "information_desk_person tipping hand woman female girl woman human information 💁"
+      "match": "information_desk_person tipping hand woman female girl human information 💁"
     },
     {
       "title": "man tipping hand",
@@ -2104,7 +2104,7 @@
         "path": "icons/tipping_hand_man.png"
       },
       "arg": "💁‍♂️",
-      "match": "tipping hand man male boy man human information 💁‍♂️"
+      "match": "tipping hand man male boy human information 💁‍♂️"
     },
     {
       "title": "woman tipping hand",
@@ -2122,7 +2122,7 @@
         "path": "icons/raising_hand_woman.png"
       },
       "arg": "🙋",
-      "match": "raising_hand raising hand woman female girl woman 🙋"
+      "match": "raising_hand raising hand woman female girl 🙋"
     },
     {
       "title": "man raising hand",
@@ -2131,7 +2131,7 @@
         "path": "icons/raising_hand_man.png"
       },
       "arg": "🙋‍♂️",
-      "match": "raising hand man male boy man 🙋‍♂️"
+      "match": "raising hand man male boy 🙋‍♂️"
     },
     {
       "title": "woman raising hand",
@@ -2149,7 +2149,7 @@
         "path": "icons/bowing_man.png"
       },
       "arg": "🙇",
-      "match": "bow bowing man man male boy 🙇"
+      "match": "bow bowing man male boy 🙇"
     },
     {
       "title": "man bowing",
@@ -2167,7 +2167,7 @@
         "path": "icons/bowing_woman.png"
       },
       "arg": "🙇‍♀️",
-      "match": "bowing woman woman female girl 🙇‍♀️"
+      "match": "bowing woman female girl 🙇‍♀️"
     },
     {
       "title": "person facepalming",
@@ -2176,7 +2176,7 @@
         "path": "icons/man_facepalming.png"
       },
       "arg": "🤦",
-      "match": "man facepalming man male boy disbelief 🤦"
+      "match": "man facepalming male boy disbelief 🤦"
     },
     {
       "title": "man facepalming",
@@ -2194,7 +2194,7 @@
         "path": "icons/woman_facepalming.png"
       },
       "arg": "🤦‍♀️",
-      "match": "woman facepalming woman female girl disbelief 🤦‍♀️"
+      "match": "woman facepalming female girl disbelief 🤦‍♀️"
     },
     {
       "title": "person shrugging",
@@ -2203,7 +2203,7 @@
         "path": "icons/woman_shrugging.png"
       },
       "arg": "🤷",
-      "match": "woman shrugging woman female girl confused indifferent doubt 🤷"
+      "match": "woman shrugging female girl confused indifferent doubt 🤷"
     },
     {
       "title": "man shrugging",
@@ -2212,7 +2212,7 @@
         "path": "icons/man_shrugging.png"
       },
       "arg": "🤷‍♂️",
-      "match": "man shrugging man male boy confused indifferent doubt 🤷‍♂️"
+      "match": "man shrugging male boy confused indifferent doubt 🤷‍♂️"
     },
     {
       "title": "woman shrugging",
@@ -2230,7 +2230,7 @@
         "path": "icons/massage_woman.png"
       },
       "arg": "💆",
-      "match": "massage massage woman female girl woman head 💆"
+      "match": "massage woman female girl head 💆"
     },
     {
       "title": "man getting massage",
@@ -2239,7 +2239,7 @@
         "path": "icons/massage_man.png"
       },
       "arg": "💆‍♂️",
-      "match": "massage man male boy man head 💆‍♂️"
+      "match": "massage man male boy head 💆‍♂️"
     },
     {
       "title": "woman getting massage",
@@ -2257,7 +2257,7 @@
         "path": "icons/haircut_woman.png"
       },
       "arg": "💇",
-      "match": "haircut haircut woman female girl woman 💇"
+      "match": "haircut woman female girl 💇"
     },
     {
       "title": "man getting haircut",
@@ -2266,7 +2266,7 @@
         "path": "icons/haircut_man.png"
       },
       "arg": "💇‍♂️",
-      "match": "haircut man male boy man 💇‍♂️"
+      "match": "haircut man male boy 💇‍♂️"
     },
     {
       "title": "woman getting haircut",
@@ -2284,7 +2284,7 @@
         "path": "icons/walking_man.png"
       },
       "arg": "🚶",
-      "match": "walking walking man human feet steps 🚶"
+      "match": "walking man human feet steps 🚶"
     },
     {
       "title": "man walking",
@@ -2302,7 +2302,7 @@
         "path": "icons/walking_woman.png"
       },
       "arg": "🚶‍♀️",
-      "match": "walking woman human feet steps woman female 🚶‍♀️"
+      "match": "walking woman human feet steps female 🚶‍♀️"
     },
     {
       "title": "person running",
@@ -2311,7 +2311,7 @@
         "path": "icons/running_man.png"
       },
       "arg": "🏃",
-      "match": "runner running running man man walking exercise race running 🏃"
+      "match": "runner running man walking exercise race 🏃"
     },
     {
       "title": "man running",
@@ -2329,7 +2329,7 @@
         "path": "icons/running_woman.png"
       },
       "arg": "🏃‍♀️",
-      "match": "running woman woman walking exercise race running female 🏃‍♀️"
+      "match": "running woman walking exercise race female 🏃‍♀️"
     },
     {
       "title": "woman dancing",
@@ -2356,7 +2356,7 @@
         "path": "icons/dancing_women.png"
       },
       "arg": "👯",
-      "match": "dancers dancing women female bunny women girls 👯"
+      "match": "dancers dancing women female bunny girls 👯"
     },
     {
       "title": "men with bunny ears",
@@ -2365,7 +2365,7 @@
         "path": "icons/dancing_men.png"
       },
       "arg": "👯‍♂️",
-      "match": "dancing men male bunny men boys 👯‍♂️"
+      "match": "dancing men male bunny boys 👯‍♂️"
     },
     {
       "title": "women with bunny ears",
@@ -2392,7 +2392,7 @@
         "path": "icons/woman_in_steamy_room.png"
       },
       "arg": "🧖‍♀️",
-      "match": "woman in steamy room female woman spa steamroom sauna 🧖‍♀️"
+      "match": "woman in steamy room female spa steamroom sauna 🧖‍♀️"
     },
     {
       "title": "man in steamy room",
@@ -2401,7 +2401,7 @@
         "path": "icons/man_in_steamy_room.png"
       },
       "arg": "🧖‍♂️",
-      "match": "man in steamy room male man spa steamroom sauna 🧖‍♂️"
+      "match": "man in steamy room male spa steamroom sauna 🧖‍♂️"
     },
     {
       "title": "person climbing",
@@ -2419,7 +2419,7 @@
         "path": "icons/climbing_woman.png"
       },
       "arg": "🧗‍♀️",
-      "match": "climbing woman sports hobby woman female rock 🧗‍♀️"
+      "match": "climbing woman sports hobby female rock 🧗‍♀️"
     },
     {
       "title": "man climbing",
@@ -2428,7 +2428,7 @@
         "path": "icons/climbing_man.png"
       },
       "arg": "🧗‍♂️",
-      "match": "climbing man sports hobby man male rock 🧗‍♂️"
+      "match": "climbing man sports hobby male rock 🧗‍♂️"
     },
     {
       "title": "person in lotus position",
@@ -2446,7 +2446,7 @@
         "path": "icons/woman_in_lotus_position.png"
       },
       "arg": "🧘‍♀️",
-      "match": "woman in lotus position woman female meditation yoga serenity zen mindfulness 🧘‍♀️"
+      "match": "woman in lotus position female meditation yoga serenity zen mindfulness 🧘‍♀️"
     },
     {
       "title": "man in lotus position",
@@ -2455,7 +2455,7 @@
         "path": "icons/man_in_lotus_position.png"
       },
       "arg": "🧘‍♂️",
-      "match": "man in lotus position man male meditation yoga serenity zen mindfulness 🧘‍♂️"
+      "match": "man in lotus position male meditation yoga serenity zen mindfulness 🧘‍♂️"
     },
     {
       "title": "person taking bath",
@@ -2473,7 +2473,7 @@
         "path": "icons/sleeping_bed.png"
       },
       "arg": "🛌",
-      "match": "sleeping bed bed rest 🛌"
+      "match": "sleeping bed rest 🛌"
     },
     {
       "title": "man in suit levitating",
@@ -2482,7 +2482,7 @@
         "path": "icons/business_suit_levitating.png"
       },
       "arg": "🕴",
-      "match": "business suit levitating suit business levitate hover jump 🕴"
+      "match": "business suit levitating levitate hover jump 🕴"
     },
     {
       "title": "speaking head",
@@ -2518,7 +2518,7 @@
         "path": "icons/person_fencing.png"
       },
       "arg": "🤺",
-      "match": "person fencing sports fencing sword 🤺"
+      "match": "person fencing sports sword 🤺"
     },
     {
       "title": "horse racing",
@@ -2572,7 +2572,7 @@
         "path": "icons/golfing_woman.png"
       },
       "arg": "🏌️‍♀️",
-      "match": "golfing woman sports business woman female 🏌️‍♀️"
+      "match": "golfing woman sports business female 🏌️‍♀️"
     },
     {
       "title": "person surfing",
@@ -2599,7 +2599,7 @@
         "path": "icons/surfing_woman.png"
       },
       "arg": "🏄‍♀️",
-      "match": "surfing woman sports ocean sea summer beach woman female 🏄‍♀️"
+      "match": "surfing woman sports ocean sea summer beach female 🏄‍♀️"
     },
     {
       "title": "person rowing boat",
@@ -2626,7 +2626,7 @@
         "path": "icons/rowing_woman.png"
       },
       "arg": "🚣‍♀️",
-      "match": "rowing woman sports hobby water ship woman female 🚣‍♀️"
+      "match": "rowing woman sports hobby water ship female 🚣‍♀️"
     },
     {
       "title": "person swimming",
@@ -2653,7 +2653,7 @@
         "path": "icons/swimming_woman.png"
       },
       "arg": "🏊‍♀️",
-      "match": "swimming woman sports exercise human athlete water summer woman female 🏊‍♀️"
+      "match": "swimming woman sports exercise human athlete water summer female 🏊‍♀️"
     },
     {
       "title": "person bouncing ball",
@@ -2680,7 +2680,7 @@
         "path": "icons/basketball_woman.png"
       },
       "arg": "⛹️‍♀️",
-      "match": "basketball woman sports human woman female ⛹️‍♀️"
+      "match": "basketball woman sports human female ⛹️‍♀️"
     },
     {
       "title": "person lifting weights",
@@ -2707,7 +2707,7 @@
         "path": "icons/weight_lifting_woman.png"
       },
       "arg": "🏋️‍♀️",
-      "match": "weight lifting woman sports training exercise woman female 🏋️‍♀️"
+      "match": "weight lifting woman sports training exercise female 🏋️‍♀️"
     },
     {
       "title": "person biking",
@@ -2734,7 +2734,7 @@
         "path": "icons/biking_woman.png"
       },
       "arg": "🚴‍♀️",
-      "match": "biking woman sports bike exercise hipster woman female 🚴‍♀️"
+      "match": "biking woman sports bike exercise hipster female 🚴‍♀️"
     },
     {
       "title": "person mountain biking",
@@ -2761,7 +2761,7 @@
         "path": "icons/mountain_biking_woman.png"
       },
       "arg": "🚵‍♀️",
-      "match": "mountain biking woman transportation sports human race bike woman female 🚵‍♀️"
+      "match": "mountain biking woman transportation sports human race bike female 🚵‍♀️"
     },
     {
       "title": "racing car",
@@ -2968,7 +2968,7 @@
         "path": "icons/couplekiss_man_man.png"
       },
       "arg": "👨‍❤️‍💋‍👨",
-      "match": "couplekiss man man pair valentines love like dating marriage 👨‍❤️‍💋‍👨"
+      "match": "couplekiss man pair valentines love like dating marriage 👨‍❤️‍💋‍👨"
     },
     {
       "title": "kiss: woman, woman",
@@ -2977,7 +2977,7 @@
         "path": "icons/couplekiss_woman_woman.png"
       },
       "arg": "👩‍❤️‍💋‍👩",
-      "match": "couplekiss woman woman pair valentines love like dating marriage 👩‍❤️‍💋‍👩"
+      "match": "couplekiss woman pair valentines love like dating marriage 👩‍❤️‍💋‍👩"
     },
     {
       "title": "couple with heart",
@@ -3004,7 +3004,7 @@
         "path": "icons/couple_with_heart_man_man.png"
       },
       "arg": "👨‍❤️‍👨",
-      "match": "couple with heart man man pair love like affection human dating valentines marriage 👨‍❤️‍👨"
+      "match": "couple with heart man pair love like affection human dating valentines marriage 👨‍❤️‍👨"
     },
     {
       "title": "couple with heart: woman, woman",
@@ -3013,7 +3013,7 @@
         "path": "icons/couple_with_heart_woman_woman.png"
       },
       "arg": "👩‍❤️‍👩",
-      "match": "couple with heart woman woman pair love like affection human dating valentines marriage 👩‍❤️‍👩"
+      "match": "couple with heart woman pair love like affection human dating valentines marriage 👩‍❤️‍👩"
     },
     {
       "title": "family",
@@ -3022,7 +3022,7 @@
         "path": "icons/family_man_woman_boy.png"
       },
       "arg": "👪",
-      "match": "family family man woman boy home parents child mom dad father mother people human 👪"
+      "match": "family man woman boy home parents child mom dad father mother people human 👪"
     },
     {
       "title": "family: man, woman, boy",
@@ -3058,7 +3058,7 @@
         "path": "icons/family_man_woman_boy_boy.png"
       },
       "arg": "👨‍👩‍👦‍👦",
-      "match": "family man woman boy boy home parents people human children 👨‍👩‍👦‍👦"
+      "match": "family man woman boy home parents people human children 👨‍👩‍👦‍👦"
     },
     {
       "title": "family: man, woman, girl, girl",
@@ -3067,7 +3067,7 @@
         "path": "icons/family_man_woman_girl_girl.png"
       },
       "arg": "👨‍👩‍👧‍👧",
-      "match": "family man woman girl girl home parents people human children 👨‍👩‍👧‍👧"
+      "match": "family man woman girl home parents people human children 👨‍👩‍👧‍👧"
     },
     {
       "title": "family: man, man, boy",
@@ -3076,7 +3076,7 @@
         "path": "icons/family_man_man_boy.png"
       },
       "arg": "👨‍👨‍👦",
-      "match": "family man man boy home parents people human children 👨‍👨‍👦"
+      "match": "family man boy home parents people human children 👨‍👨‍👦"
     },
     {
       "title": "family: man, man, girl",
@@ -3085,7 +3085,7 @@
         "path": "icons/family_man_man_girl.png"
       },
       "arg": "👨‍👨‍👧",
-      "match": "family man man girl home parents people human children 👨‍👨‍👧"
+      "match": "family man girl home parents people human children 👨‍👨‍👧"
     },
     {
       "title": "family: man, man, girl, boy",
@@ -3094,7 +3094,7 @@
         "path": "icons/family_man_man_girl_boy.png"
       },
       "arg": "👨‍👨‍👧‍👦",
-      "match": "family man man girl boy home parents people human children 👨‍👨‍👧‍👦"
+      "match": "family man girl boy home parents people human children 👨‍👨‍👧‍👦"
     },
     {
       "title": "family: man, man, boy, boy",
@@ -3103,7 +3103,7 @@
         "path": "icons/family_man_man_boy_boy.png"
       },
       "arg": "👨‍👨‍👦‍👦",
-      "match": "family man man boy boy home parents people human children 👨‍👨‍👦‍👦"
+      "match": "family man boy home parents people human children 👨‍👨‍👦‍👦"
     },
     {
       "title": "family: man, man, girl, girl",
@@ -3112,7 +3112,7 @@
         "path": "icons/family_man_man_girl_girl.png"
       },
       "arg": "👨‍👨‍👧‍👧",
-      "match": "family man man girl girl home parents people human children 👨‍👨‍👧‍👧"
+      "match": "family man girl home parents people human children 👨‍👨‍👧‍👧"
     },
     {
       "title": "family: woman, woman, boy",
@@ -3121,7 +3121,7 @@
         "path": "icons/family_woman_woman_boy.png"
       },
       "arg": "👩‍👩‍👦",
-      "match": "family woman woman boy home parents people human children 👩‍👩‍👦"
+      "match": "family woman boy home parents people human children 👩‍👩‍👦"
     },
     {
       "title": "family: woman, woman, girl",
@@ -3130,7 +3130,7 @@
         "path": "icons/family_woman_woman_girl.png"
       },
       "arg": "👩‍👩‍👧",
-      "match": "family woman woman girl home parents people human children 👩‍👩‍👧"
+      "match": "family woman girl home parents people human children 👩‍👩‍👧"
     },
     {
       "title": "family: woman, woman, girl, boy",
@@ -3139,7 +3139,7 @@
         "path": "icons/family_woman_woman_girl_boy.png"
       },
       "arg": "👩‍👩‍👧‍👦",
-      "match": "family woman woman girl boy home parents people human children 👩‍👩‍👧‍👦"
+      "match": "family woman girl boy home parents people human children 👩‍👩‍👧‍👦"
     },
     {
       "title": "family: woman, woman, boy, boy",
@@ -3148,7 +3148,7 @@
         "path": "icons/family_woman_woman_boy_boy.png"
       },
       "arg": "👩‍👩‍👦‍👦",
-      "match": "family woman woman boy boy home parents people human children 👩‍👩‍👦‍👦"
+      "match": "family woman boy home parents people human children 👩‍👩‍👦‍👦"
     },
     {
       "title": "family: woman, woman, girl, girl",
@@ -3157,7 +3157,7 @@
         "path": "icons/family_woman_woman_girl_girl.png"
       },
       "arg": "👩‍👩‍👧‍👧",
-      "match": "family woman woman girl girl home parents people human children 👩‍👩‍👧‍👧"
+      "match": "family woman girl home parents people human children 👩‍👩‍👧‍👧"
     },
     {
       "title": "family: man, boy",
@@ -3175,7 +3175,7 @@
         "path": "icons/family_man_boy_boy.png"
       },
       "arg": "👨‍👦‍👦",
-      "match": "family man boy boy home parent people human children 👨‍👦‍👦"
+      "match": "family man boy home parent people human children 👨‍👦‍👦"
     },
     {
       "title": "family: man, girl",
@@ -3202,7 +3202,7 @@
         "path": "icons/family_man_girl_girl.png"
       },
       "arg": "👨‍👧‍👧",
-      "match": "family man girl girl home parent people human children 👨‍👧‍👧"
+      "match": "family man girl home parent people human children 👨‍👧‍👧"
     },
     {
       "title": "family: woman, boy",
@@ -3220,7 +3220,7 @@
         "path": "icons/family_woman_boy_boy.png"
       },
       "arg": "👩‍👦‍👦",
-      "match": "family woman boy boy home parent people human children 👩‍👦‍👦"
+      "match": "family woman boy home parent people human children 👩‍👦‍👦"
     },
     {
       "title": "family: woman, girl",
@@ -3247,7 +3247,7 @@
         "path": "icons/family_woman_girl_girl.png"
       },
       "arg": "👩‍👧‍👧",
-      "match": "family woman girl girl home parent people human children 👩‍👧‍👧"
+      "match": "family woman girl home parent people human children 👩‍👧‍👧"
     },
     {
       "title": "selfie",
@@ -3292,7 +3292,7 @@
         "path": "icons/point_left.png"
       },
       "arg": "👈",
-      "match": "point_left point left direction fingers hand left 👈"
+      "match": "point_left point left direction fingers hand 👈"
     },
     {
       "title": "backhand index pointing right",
@@ -3301,7 +3301,7 @@
         "path": "icons/point_right.png"
       },
       "arg": "👉",
-      "match": "point_right point right fingers hand direction right 👉"
+      "match": "point_right point right fingers hand direction 👉"
     },
     {
       "title": "index pointing up",
@@ -3310,7 +3310,7 @@
         "path": "icons/point_up.png"
       },
       "arg": "☝",
-      "match": "point_up point up hand fingers direction up ☝"
+      "match": "point_up point up hand fingers direction ☝"
     },
     {
       "title": "backhand index pointing up",
@@ -3319,7 +3319,7 @@
         "path": "icons/point_up_2.png"
       },
       "arg": "👆",
-      "match": "point_up_2 point up 2 fingers hand direction up 👆"
+      "match": "point_up_2 point up 2 fingers hand direction 👆"
     },
     {
       "title": "middle finger",
@@ -3337,7 +3337,7 @@
         "path": "icons/point_down.png"
       },
       "arg": "👇",
-      "match": "point_down point down fingers hand direction down 👇"
+      "match": "point_down point down fingers hand direction 👇"
     },
     {
       "title": "victory hand",
@@ -3391,7 +3391,7 @@
         "path": "icons/raised_hand_with_fingers_splayed.png"
       },
       "arg": "🖐",
-      "match": "raised hand with fingers splayed hand fingers palm 🖐"
+      "match": "raised hand with fingers splayed palm 🖐"
     },
     {
       "title": "raised hand",
@@ -3400,7 +3400,7 @@
         "path": "icons/raised_hand.png"
       },
       "arg": "✋",
-      "match": "hand raised_hand raised hand fingers stop highfive palm ban ✋"
+      "match": "hand raised_hand raised fingers stop highfive palm ban ✋"
     },
     {
       "title": "OK hand",
@@ -3409,7 +3409,7 @@
         "path": "icons/ok_hand.png"
       },
       "arg": "👌",
-      "match": "ok_hand ok hand fingers limbs perfect ok okay 👌"
+      "match": "ok_hand ok hand fingers limbs perfect okay 👌"
     },
     {
       "title": "thumbs up",
@@ -3418,7 +3418,7 @@
         "path": "icons/+1.png"
       },
       "arg": "👍",
-      "match": "+1 thumbsup +1 thumbsup yes awesome good agree accept cool hand like 👍"
+      "match": "+1 thumbsup yes awesome good agree accept cool hand like 👍"
     },
     {
       "title": "thumbs down",
@@ -3427,7 +3427,7 @@
         "path": "icons/-1.png"
       },
       "arg": "👎",
-      "match": "-1 thumbsdown -1 thumbsdown no dislike hand 👎"
+      "match": "-1 thumbsdown no dislike hand 👎"
     },
     {
       "title": "raised fist",
@@ -3445,7 +3445,7 @@
         "path": "icons/facepunch.png"
       },
       "arg": "👊",
-      "match": "punch facepunch facepunch angry violence fist hit attack hand 👊"
+      "match": "punch facepunch angry violence fist hit attack hand 👊"
     },
     {
       "title": "left-facing fist",
@@ -3472,7 +3472,7 @@
         "path": "icons/raised_back_of_hand.png"
       },
       "arg": "🤚",
-      "match": "raised back of hand fingers raised backhand 🤚"
+      "match": "raised back of hand fingers backhand 🤚"
     },
     {
       "title": "waving hand",
@@ -3517,7 +3517,7 @@
         "path": "icons/open_hands.png"
       },
       "arg": "👐",
-      "match": "open_hands open hands fingers butterfly hands open 👐"
+      "match": "open_hands open hands fingers butterfly 👐"
     },
     {
       "title": "raising hands",
@@ -3526,7 +3526,7 @@
         "path": "icons/raised_hands.png"
       },
       "arg": "🙌",
-      "match": "raised_hands raised hands gesture hooray yea celebration hands 🙌"
+      "match": "raised_hands raised hands gesture hooray yea celebration 🙌"
     },
     {
       "title": "palms up together",
@@ -3562,7 +3562,7 @@
         "path": "icons/nail_care.png"
       },
       "arg": "💅",
-      "match": "nail_care nail care beauty manicure finger fashion nail 💅"
+      "match": "nail_care nail care beauty manicure finger fashion 💅"
     },
     {
       "title": "ear",
@@ -3742,7 +3742,7 @@
         "path": "icons/broken_heart.png"
       },
       "arg": "💔",
-      "match": "broken_heart broken heart sad sorry break heart heartbreak 💔"
+      "match": "broken_heart broken heart sad sorry break heartbreak 💔"
     },
     {
       "title": "two hearts",
@@ -3904,7 +3904,7 @@
         "path": "icons/boom.png"
       },
       "arg": "💥",
-      "match": "boom collision boom bomb explode explosion collision blown 💥"
+      "match": "boom collision bomb explode explosion blown 💥"
     },
     {
       "title": "sweat droplets",
@@ -4030,7 +4030,7 @@
         "path": "icons/tshirt.png"
       },
       "arg": "👕",
-      "match": "shirt tshirt tshirt fashion cloth casual shirt tee 👕"
+      "match": "shirt tshirt fashion cloth casual tee 👕"
     },
     {
       "title": "jeans",
@@ -4165,7 +4165,7 @@
         "path": "icons/mans_shoe.png"
       },
       "arg": "👞",
-      "match": "shoe mans_shoe mans shoe fashion male 👞"
+      "match": "shoe mans_shoe mans fashion male 👞"
     },
     {
       "title": "running shoe",
@@ -4381,7 +4381,7 @@
         "path": "icons/fox_face.png"
       },
       "arg": "🦊",
-      "match": "fox face animal nature face 🦊"
+      "match": "fox face animal nature 🦊"
     },
     {
       "title": "raccoon",
@@ -4759,7 +4759,7 @@
         "path": "icons/panda_face.png"
       },
       "arg": "🐼",
-      "match": "panda_face panda face animal nature panda 🐼"
+      "match": "panda_face panda face animal nature 🐼"
     },
     {
       "title": "kangaroo",
@@ -4786,7 +4786,7 @@
         "path": "icons/paw_prints.png"
       },
       "arg": "🐾",
-      "match": "feet paw_prints paw prints animal tracking footprints dog cat pet feet 🐾"
+      "match": "feet paw_prints paw prints animal tracking footprints dog cat pet 🐾"
     },
     {
       "title": "turkey",
@@ -5281,7 +5281,7 @@
         "path": "icons/wilted_flower.png"
       },
       "arg": "🥀",
-      "match": "wilted flower plant nature flower 🥀"
+      "match": "wilted flower plant nature 🥀"
     },
     {
       "title": "hibiscus",
@@ -5560,7 +5560,7 @@
         "path": "icons/kiwi_fruit.png"
       },
       "arg": "🥝",
-      "match": "kiwi fruit fruit food 🥝"
+      "match": "kiwi fruit food 🥝"
     },
     {
       "title": "tomato",
@@ -5713,7 +5713,7 @@
         "path": "icons/baguette_bread.png"
       },
       "arg": "🥖",
-      "match": "baguette bread food bread french 🥖"
+      "match": "baguette bread food french 🥖"
     },
     {
       "title": "pretzel",
@@ -5857,7 +5857,7 @@
         "path": "icons/stuffed_flatbread.png"
       },
       "arg": "🥙",
-      "match": "stuffed flatbread food flatbread stuffed gyro 🥙"
+      "match": "stuffed flatbread food gyro 🥙"
     },
     {
       "title": "egg",
@@ -5875,7 +5875,7 @@
         "path": "icons/fried_egg.png"
       },
       "arg": "🍳",
-      "match": "fried egg food breakfast kitchen egg 🍳"
+      "match": "fried egg food breakfast kitchen 🍳"
     },
     {
       "title": "shallow pan of food",
@@ -5884,7 +5884,7 @@
         "path": "icons/shallow_pan_of_food.png"
       },
       "arg": "🥘",
-      "match": "shallow pan of food food cooking casserole paella 🥘"
+      "match": "shallow pan of food cooking casserole paella 🥘"
     },
     {
       "title": "pot of food",
@@ -5938,7 +5938,7 @@
         "path": "icons/canned_food.png"
       },
       "arg": "🥫",
-      "match": "canned food food soup 🥫"
+      "match": "canned food soup 🥫"
     },
     {
       "title": "bento box",
@@ -6334,7 +6334,7 @@
         "path": "icons/tumbler_glass.png"
       },
       "arg": "🥃",
-      "match": "tumbler glass drink beverage drunk alcohol liquor booze bourbon scotch whisky glass shot 🥃"
+      "match": "tumbler glass drink beverage drunk alcohol liquor booze bourbon scotch whisky shot 🥃"
     },
     {
       "title": "cup with straw",
@@ -7162,7 +7162,7 @@
         "path": "icons/red_car.png"
       },
       "arg": "🚗",
-      "match": "car red_car red car red transportation vehicle 🚗"
+      "match": "car red_car red transportation vehicle 🚗"
     },
     {
       "title": "oncoming automobile",
@@ -7225,7 +7225,7 @@
         "path": "icons/kick_scooter.png"
       },
       "arg": "🛴",
-      "match": "kick scooter vehicle kick razor 🛴"
+      "match": "kick scooter vehicle razor 🛴"
     },
     {
       "title": "skateboard",
@@ -7324,7 +7324,7 @@
         "path": "icons/stop_sign.png"
       },
       "arg": "🛑",
-      "match": "stop sign stop 🛑"
+      "match": "stop sign 🛑"
     },
     {
       "title": "construction",
@@ -7351,7 +7351,7 @@
         "path": "icons/sailboat.png"
       },
       "arg": "⛵",
-      "match": "boat sailboat sailboat ship summer transportation water sailing ⛵"
+      "match": "boat sailboat ship summer transportation water sailing ⛵"
     },
     {
       "title": "canoe",
@@ -7432,7 +7432,7 @@
         "path": "icons/flight_departure.png"
       },
       "arg": "🛫",
-      "match": "flight departure airport flight landing 🛫"
+      "match": "flight departure airport landing 🛫"
     },
     {
       "title": "airplane arrival",
@@ -7441,7 +7441,7 @@
         "path": "icons/flight_arrival.png"
       },
       "arg": "🛬",
-      "match": "flight arrival airport flight boarding 🛬"
+      "match": "flight arrival airport boarding 🛬"
     },
     {
       "title": "seat",
@@ -7846,7 +7846,7 @@
         "path": "icons/waxing_gibbous_moon.png"
       },
       "arg": "🌔",
-      "match": "waxing_gibbous_moon moon waxing gibbous moon nature night sky gray twilight planet space evening sleep 🌔"
+      "match": "waxing_gibbous_moon moon waxing gibbous nature night sky gray twilight planet space evening sleep 🌔"
     },
     {
       "title": "full moon",
@@ -7864,7 +7864,7 @@
         "path": "icons/waning_gibbous_moon.png"
       },
       "arg": "🌖",
-      "match": "waning_gibbous_moon waning gibbous moon nature twilight planet space night evening sleep waxing gibbous moon 🌖"
+      "match": "waning_gibbous_moon waning gibbous moon nature twilight planet space night evening sleep waxing 🌖"
     },
     {
       "title": "last quarter moon",
@@ -8008,7 +8008,7 @@
         "path": "icons/cloud_with_lightning_and_rain.png"
       },
       "arg": "⛈",
-      "match": "cloud with lightning and rain weather lightning ⛈"
+      "match": "cloud with lightning and rain weather ⛈"
     },
     {
       "title": "sun behind small cloud",
@@ -8755,7 +8755,7 @@
         "path": "icons/slot_machine.png"
       },
       "arg": "🎰",
-      "match": "slot_machine slot machine bet gamble vegas fruit machine luck casino 🎰"
+      "match": "slot_machine slot machine bet gamble vegas fruit luck casino 🎰"
     },
     {
       "title": "game die",
@@ -9142,7 +9142,7 @@
         "path": "icons/phone.png"
       },
       "arg": "☎️",
-      "match": "phone telephone phone technology communication dial telephone ☎️"
+      "match": "phone telephone technology communication dial ☎️"
     },
     {
       "title": "telephone receiver",
@@ -9448,7 +9448,7 @@
         "path": "icons/open_book.png"
       },
       "arg": "📖",
-      "match": "book open book read library knowledge literature learn study 📖"
+      "match": "book open read library knowledge literature learn study 📖"
     },
     {
       "title": "green book",
@@ -9682,7 +9682,7 @@
         "path": "icons/email.png"
       },
       "arg": "✉️",
-      "match": "email envelope email letter postal inbox communication ✉️"
+      "match": "email envelope letter postal inbox communication ✉️"
     },
     {
       "title": "e-mail",
@@ -9853,7 +9853,7 @@
         "path": "icons/memo.png"
       },
       "arg": "📝",
-      "match": "memo pencil memo write documents stationery pencil paper writing legal exam quiz test study compose 📝"
+      "match": "memo pencil write documents stationery paper writing legal exam quiz test study compose 📝"
     },
     {
       "title": "briefcase",
@@ -11230,7 +11230,7 @@
         "path": "icons/next_track_button.png"
       },
       "arg": "⏭",
-      "match": "next track button forward next blue-square ⏭"
+      "match": "next track button forward blue-square ⏭"
     },
     {
       "title": "play or pause button",
@@ -11239,7 +11239,7 @@
         "path": "icons/play_or_pause_button.png"
       },
       "arg": "⏯",
-      "match": "play or pause button blue-square play pause ⏯"
+      "match": "play or pause button blue-square ⏯"
     },
     {
       "title": "reverse button",
@@ -11311,7 +11311,7 @@
         "path": "icons/pause_button.png"
       },
       "arg": "⏸",
-      "match": "pause button pause blue-square ⏸"
+      "match": "pause button blue-square ⏸"
     },
     {
       "title": "stop button",
@@ -11671,7 +11671,7 @@
         "path": "icons/exclamation.png"
       },
       "arg": "❗",
-      "match": "exclamation heavy_exclamation_mark exclamation heavy exclamation mark danger surprise punctuation wow warning ❗"
+      "match": "exclamation heavy_exclamation_mark heavy mark danger surprise punctuation wow warning ❗"
     },
     {
       "title": "wavy dash",
@@ -12436,7 +12436,7 @@
         "path": "icons/rainbow_flag.png"
       },
       "arg": "🏳️‍🌈",
-      "match": "rainbow flag flag rainbow pride gay lgbt glbt queer homosexual lesbian bisexual transgender 🏳️‍🌈"
+      "match": "rainbow flag pride gay lgbt glbt queer homosexual lesbian bisexual transgender 🏳️‍🌈"
     },
     {
       "title": "pirate flag",
@@ -12472,7 +12472,7 @@
         "path": "icons/united_arab_emirates.png"
       },
       "arg": "🇦🇪",
-      "match": "united arab emirates united arab emirates flag nation country banner 🇦🇪"
+      "match": "united arab emirates flag nation country banner 🇦🇪"
     },
     {
       "title": "Afghanistan",
@@ -12490,7 +12490,7 @@
         "path": "icons/antigua_barbuda.png"
       },
       "arg": "🇦🇬",
-      "match": "antigua barbuda antigua barbuda flag nation country banner 🇦🇬"
+      "match": "antigua barbuda flag nation country banner 🇦🇬"
     },
     {
       "title": "Anguilla",
@@ -12553,7 +12553,7 @@
         "path": "icons/american_samoa.png"
       },
       "arg": "🇦🇸",
-      "match": "american samoa american ws flag nation country banner 🇦🇸"
+      "match": "american samoa ws flag nation country banner 🇦🇸"
     },
     {
       "title": "Austria",
@@ -12589,7 +12589,7 @@
         "path": "icons/aland_islands.png"
       },
       "arg": "🇦🇽",
-      "match": "aland islands Åland islands flag nation country banner 🇦🇽"
+      "match": "aland islands Åland flag nation country banner 🇦🇽"
     },
     {
       "title": "Azerbaijan",
@@ -12607,7 +12607,7 @@
         "path": "icons/bosnia_herzegovina.png"
       },
       "arg": "🇧🇦",
-      "match": "bosnia herzegovina bosnia herzegovina flag nation country banner 🇧🇦"
+      "match": "bosnia herzegovina flag nation country banner 🇧🇦"
     },
     {
       "title": "Barbados",
@@ -12643,7 +12643,7 @@
         "path": "icons/burkina_faso.png"
       },
       "arg": "🇧🇫",
-      "match": "burkina faso burkina faso flag nation country banner 🇧🇫"
+      "match": "burkina faso flag nation country banner 🇧🇫"
     },
     {
       "title": "Bulgaria",
@@ -12805,7 +12805,7 @@
         "path": "icons/cocos_islands.png"
       },
       "arg": "🇨🇨",
-      "match": "cocos islands cocos keeling islands flag nation country banner 🇨🇨"
+      "match": "cocos islands keeling flag nation country banner 🇨🇨"
     },
     {
       "title": "Congo - Kinshasa",
@@ -12814,7 +12814,7 @@
         "path": "icons/congo_kinshasa.png"
       },
       "arg": "🇨🇩",
-      "match": "congo kinshasa congo democratic republic flag nation country banner 🇨🇩"
+      "match": "congo kinshasa democratic republic flag nation country banner 🇨🇩"
     },
     {
       "title": "Central African Republic",
@@ -12823,7 +12823,7 @@
         "path": "icons/central_african_republic.png"
       },
       "arg": "🇨🇫",
-      "match": "central african republic central african republic flag nation country banner 🇨🇫"
+      "match": "central african republic flag nation country banner 🇨🇫"
     },
     {
       "title": "Congo - Brazzaville",
@@ -12832,7 +12832,7 @@
         "path": "icons/congo_brazzaville.png"
       },
       "arg": "🇨🇬",
-      "match": "congo brazzaville congo flag nation country banner 🇨🇬"
+      "match": "congo brazzaville flag nation country banner 🇨🇬"
     },
     {
       "title": "Switzerland",
@@ -12859,7 +12859,7 @@
         "path": "icons/cook_islands.png"
       },
       "arg": "🇨🇰",
-      "match": "cook islands cook islands flag nation country banner 🇨🇰"
+      "match": "cook islands flag nation country banner 🇨🇰"
     },
     {
       "title": "Chile",
@@ -12913,7 +12913,7 @@
         "path": "icons/costa_rica.png"
       },
       "arg": "🇨🇷",
-      "match": "costa rica costa rica flag nation country banner 🇨🇷"
+      "match": "costa rica flag nation country banner 🇨🇷"
     },
     {
       "title": "Cuba",
@@ -12931,7 +12931,7 @@
         "path": "icons/cape_verde.png"
       },
       "arg": "🇨🇻",
-      "match": "cape verde cabo verde flag nation country banner 🇨🇻"
+      "match": "cape verde cabo flag nation country banner 🇨🇻"
     },
     {
       "title": "Curaçao",
@@ -12949,7 +12949,7 @@
         "path": "icons/christmas_island.png"
       },
       "arg": "🇨🇽",
-      "match": "christmas island christmas island flag nation country banner 🇨🇽"
+      "match": "christmas island flag nation country banner 🇨🇽"
     },
     {
       "title": "Cyprus",
@@ -13021,7 +13021,7 @@
         "path": "icons/dominican_republic.png"
       },
       "arg": "🇩🇴",
-      "match": "dominican republic dominican republic flag nation country banner 🇩🇴"
+      "match": "dominican republic flag nation country banner 🇩🇴"
     },
     {
       "title": "Algeria",
@@ -13075,7 +13075,7 @@
         "path": "icons/western_sahara.png"
       },
       "arg": "🇪🇭",
-      "match": "western sahara western sahara flag nation country banner 🇪🇭"
+      "match": "western sahara flag nation country banner 🇪🇭"
     },
     {
       "title": "Eritrea",
@@ -13138,7 +13138,7 @@
         "path": "icons/falkland_islands.png"
       },
       "arg": "🇫🇰",
-      "match": "falkland islands falkland islands malvinas flag nation country banner 🇫🇰"
+      "match": "falkland islands malvinas flag nation country banner 🇫🇰"
     },
     {
       "title": "Micronesia",
@@ -13156,7 +13156,7 @@
         "path": "icons/faroe_islands.png"
       },
       "arg": "🇫🇴",
-      "match": "faroe islands faroe islands flag nation country banner 🇫🇴"
+      "match": "faroe islands flag nation country banner 🇫🇴"
     },
     {
       "title": "France",
@@ -13183,7 +13183,7 @@
         "path": "icons/uk.png"
       },
       "arg": "🇬🇧",
-      "match": "gb uk uk united kingdom great britain northern ireland flag nation country banner british UK english england union jack 🇬🇧"
+      "match": "gb uk united kingdom great britain northern ireland flag nation country banner british UK english england union jack 🇬🇧"
     },
     {
       "title": "Grenada",
@@ -13210,7 +13210,7 @@
         "path": "icons/french_guiana.png"
       },
       "arg": "🇬🇫",
-      "match": "french guiana french guiana flag nation country banner 🇬🇫"
+      "match": "french guiana flag nation country banner 🇬🇫"
     },
     {
       "title": "Guernsey",
@@ -13282,7 +13282,7 @@
         "path": "icons/equatorial_guinea.png"
       },
       "arg": "🇬🇶",
-      "match": "equatorial guinea equatorial gn flag nation country banner 🇬🇶"
+      "match": "equatorial guinea gn flag nation country banner 🇬🇶"
     },
     {
       "title": "Greece",
@@ -13300,7 +13300,7 @@
         "path": "icons/south_georgia_south_sandwich_islands.png"
       },
       "arg": "🇬🇸",
-      "match": "south georgia south sandwich islands south georgia sandwich islands flag nation country banner 🇬🇸"
+      "match": "south georgia sandwich islands flag nation country banner 🇬🇸"
     },
     {
       "title": "Guatemala",
@@ -13327,7 +13327,7 @@
         "path": "icons/guinea_bissau.png"
       },
       "arg": "🇬🇼",
-      "match": "guinea bissau gw bissau flag nation country banner 🇬🇼"
+      "match": "guinea bissau gw flag nation country banner 🇬🇼"
     },
     {
       "title": "Guyana",
@@ -13345,7 +13345,7 @@
         "path": "icons/hong_kong.png"
       },
       "arg": "🇭🇰",
-      "match": "hong kong hong kong flag nation country banner 🇭🇰"
+      "match": "hong kong flag nation country banner 🇭🇰"
     },
     {
       "title": "Heard & McDonald Islands",
@@ -13399,7 +13399,7 @@
         "path": "icons/canary_islands.png"
       },
       "arg": "🇮🇨",
-      "match": "canary islands canary islands flag nation country banner 🇮🇨"
+      "match": "canary islands flag nation country banner 🇮🇨"
     },
     {
       "title": "Indonesia",
@@ -13435,7 +13435,7 @@
         "path": "icons/isle_of_man.png"
       },
       "arg": "🇮🇲",
-      "match": "isle of man isle man flag nation country banner 🇮🇲"
+      "match": "isle of man flag nation country banner 🇮🇲"
     },
     {
       "title": "India",
@@ -13453,7 +13453,7 @@
         "path": "icons/british_indian_ocean_territory.png"
       },
       "arg": "🇮🇴",
-      "match": "british indian ocean territory british indian ocean territory flag nation country banner 🇮🇴"
+      "match": "british indian ocean territory flag nation country banner 🇮🇴"
     },
     {
       "title": "Iraq",
@@ -13579,7 +13579,7 @@
         "path": "icons/st_kitts_nevis.png"
       },
       "arg": "🇰🇳",
-      "match": "st kitts nevis saint kitts nevis flag nation country banner 🇰🇳"
+      "match": "st kitts nevis saint flag nation country banner 🇰🇳"
     },
     {
       "title": "North Korea",
@@ -13588,7 +13588,7 @@
         "path": "icons/north_korea.png"
       },
       "arg": "🇰🇵",
-      "match": "north korea north korea nation flag country banner 🇰🇵"
+      "match": "north korea nation flag country banner 🇰🇵"
     },
     {
       "title": "South Korea",
@@ -13615,7 +13615,7 @@
         "path": "icons/cayman_islands.png"
       },
       "arg": "🇰🇾",
-      "match": "cayman islands cayman islands flag nation country banner 🇰🇾"
+      "match": "cayman islands flag nation country banner 🇰🇾"
     },
     {
       "title": "Kazakhstan",
@@ -13651,7 +13651,7 @@
         "path": "icons/st_lucia.png"
       },
       "arg": "🇱🇨",
-      "match": "st lucia saint lucia flag nation country banner 🇱🇨"
+      "match": "st lucia saint flag nation country banner 🇱🇨"
     },
     {
       "title": "Liechtenstein",
@@ -13669,7 +13669,7 @@
         "path": "icons/sri_lanka.png"
       },
       "arg": "🇱🇰",
-      "match": "sri lanka sri lanka flag nation country banner 🇱🇰"
+      "match": "sri lanka flag nation country banner 🇱🇰"
     },
     {
       "title": "Liberia",
@@ -13786,7 +13786,7 @@
         "path": "icons/marshall_islands.png"
       },
       "arg": "🇲🇭",
-      "match": "marshall islands marshall islands flag nation country banner 🇲🇭"
+      "match": "marshall islands flag nation country banner 🇲🇭"
     },
     {
       "title": "Macedonia",
@@ -13840,7 +13840,7 @@
         "path": "icons/northern_mariana_islands.png"
       },
       "arg": "🇲🇵",
-      "match": "northern mariana islands northern mariana islands flag nation country banner 🇲🇵"
+      "match": "northern mariana islands flag nation country banner 🇲🇵"
     },
     {
       "title": "Martinique",
@@ -13948,7 +13948,7 @@
         "path": "icons/new_caledonia.png"
       },
       "arg": "🇳🇨",
-      "match": "new caledonia new caledonia flag nation country banner 🇳🇨"
+      "match": "new caledonia flag nation country banner 🇳🇨"
     },
     {
       "title": "Niger",
@@ -13966,7 +13966,7 @@
         "path": "icons/norfolk_island.png"
       },
       "arg": "🇳🇫",
-      "match": "norfolk island norfolk island flag nation country banner 🇳🇫"
+      "match": "norfolk island flag nation country banner 🇳🇫"
     },
     {
       "title": "Nigeria",
@@ -14038,7 +14038,7 @@
         "path": "icons/new_zealand.png"
       },
       "arg": "🇳🇿",
-      "match": "new zealand new zealand flag nation country banner 🇳🇿"
+      "match": "new zealand flag nation country banner 🇳🇿"
     },
     {
       "title": "Oman",
@@ -14074,7 +14074,7 @@
         "path": "icons/french_polynesia.png"
       },
       "arg": "🇵🇫",
-      "match": "french polynesia french polynesia flag nation country banner 🇵🇫"
+      "match": "french polynesia flag nation country banner 🇵🇫"
     },
     {
       "title": "Papua New Guinea",
@@ -14083,7 +14083,7 @@
         "path": "icons/papua_new_guinea.png"
       },
       "arg": "🇵🇬",
-      "match": "papua new guinea papua new guinea flag nation country banner 🇵🇬"
+      "match": "papua new guinea flag nation country banner 🇵🇬"
     },
     {
       "title": "Philippines",
@@ -14119,7 +14119,7 @@
         "path": "icons/st_pierre_miquelon.png"
       },
       "arg": "🇵🇲",
-      "match": "st pierre miquelon saint pierre miquelon flag nation country banner 🇵🇲"
+      "match": "st pierre miquelon saint flag nation country banner 🇵🇲"
     },
     {
       "title": "Pitcairn Islands",
@@ -14128,7 +14128,7 @@
         "path": "icons/pitcairn_islands.png"
       },
       "arg": "🇵🇳",
-      "match": "pitcairn islands pitcairn flag nation country banner 🇵🇳"
+      "match": "pitcairn islands flag nation country banner 🇵🇳"
     },
     {
       "title": "Puerto Rico",
@@ -14137,7 +14137,7 @@
         "path": "icons/puerto_rico.png"
       },
       "arg": "🇵🇷",
-      "match": "puerto rico puerto rico flag nation country banner 🇵🇷"
+      "match": "puerto rico flag nation country banner 🇵🇷"
     },
     {
       "title": "Palestinian Territories",
@@ -14146,7 +14146,7 @@
         "path": "icons/palestinian_territories.png"
       },
       "arg": "🇵🇸",
-      "match": "palestinian territories palestine palestinian territories flag nation country banner 🇵🇸"
+      "match": "palestinian territories palestine flag nation country banner 🇵🇸"
     },
     {
       "title": "Portugal",
@@ -14245,7 +14245,7 @@
         "path": "icons/solomon_islands.png"
       },
       "arg": "🇸🇧",
-      "match": "solomon islands solomon islands flag nation country banner 🇸🇧"
+      "match": "solomon islands flag nation country banner 🇸🇧"
     },
     {
       "title": "Seychelles",
@@ -14290,7 +14290,7 @@
         "path": "icons/st_helena.png"
       },
       "arg": "🇸🇭",
-      "match": "st helena saint helena ascension tristan cunha flag nation country banner 🇸🇭"
+      "match": "st helena saint ascension tristan cunha flag nation country banner 🇸🇭"
     },
     {
       "title": "Slovenia",
@@ -14326,7 +14326,7 @@
         "path": "icons/sierra_leone.png"
       },
       "arg": "🇸🇱",
-      "match": "sierra leone sierra leone flag nation country banner 🇸🇱"
+      "match": "sierra leone flag nation country banner 🇸🇱"
     },
     {
       "title": "San Marino",
@@ -14335,7 +14335,7 @@
         "path": "icons/san_marino.png"
       },
       "arg": "🇸🇲",
-      "match": "san marino san marino flag nation country banner 🇸🇲"
+      "match": "san marino flag nation country banner 🇸🇲"
     },
     {
       "title": "Senegal",
@@ -14371,7 +14371,7 @@
         "path": "icons/south_sudan.png"
       },
       "arg": "🇸🇸",
-      "match": "south sudan south sd flag nation country banner 🇸🇸"
+      "match": "south sudan sd flag nation country banner 🇸🇸"
     },
     {
       "title": "São Tomé & Príncipe",
@@ -14380,7 +14380,7 @@
         "path": "icons/sao_tome_principe.png"
       },
       "arg": "🇸🇹",
-      "match": "sao tome principe sao tome principe flag nation country banner 🇸🇹"
+      "match": "sao tome principe flag nation country banner 🇸🇹"
     },
     {
       "title": "El Salvador",
@@ -14389,7 +14389,7 @@
         "path": "icons/el_salvador.png"
       },
       "arg": "🇸🇻",
-      "match": "el salvador el salvador flag nation country banner 🇸🇻"
+      "match": "el salvador flag nation country banner 🇸🇻"
     },
     {
       "title": "Sint Maarten",
@@ -14398,7 +14398,7 @@
         "path": "icons/sint_maarten.png"
       },
       "arg": "🇸🇽",
-      "match": "sint maarten sint maarten dutch flag nation country banner 🇸🇽"
+      "match": "sint maarten dutch flag nation country banner 🇸🇽"
     },
     {
       "title": "Syria",
@@ -14434,7 +14434,7 @@
         "path": "icons/turks_caicos_islands.png"
       },
       "arg": "🇹🇨",
-      "match": "turks caicos islands turks caicos islands flag nation country banner 🇹🇨"
+      "match": "turks caicos islands flag nation country banner 🇹🇨"
     },
     {
       "title": "Chad",
@@ -14452,7 +14452,7 @@
         "path": "icons/french_southern_territories.png"
       },
       "arg": "🇹🇫",
-      "match": "french southern territories french southern territories flag nation country banner 🇹🇫"
+      "match": "french southern territories flag nation country banner 🇹🇫"
     },
     {
       "title": "Togo",
@@ -14497,7 +14497,7 @@
         "path": "icons/timor_leste.png"
       },
       "arg": "🇹🇱",
-      "match": "timor leste timor leste flag nation country banner 🇹🇱"
+      "match": "timor leste flag nation country banner 🇹🇱"
     },
     {
       "title": "Turkmenistan",
@@ -14542,7 +14542,7 @@
         "path": "icons/trinidad_tobago.png"
       },
       "arg": "🇹🇹",
-      "match": "trinidad tobago trinidad tobago flag nation country banner 🇹🇹"
+      "match": "trinidad tobago flag nation country banner 🇹🇹"
     },
     {
       "title": "Tuvalu",
@@ -14641,7 +14641,7 @@
         "path": "icons/vatican_city.png"
       },
       "arg": "🇻🇦",
-      "match": "vatican city vatican city flag nation country banner 🇻🇦"
+      "match": "vatican city flag nation country banner 🇻🇦"
     },
     {
       "title": "St. Vincent & Grenadines",
@@ -14650,7 +14650,7 @@
         "path": "icons/st_vincent_grenadines.png"
       },
       "arg": "🇻🇨",
-      "match": "st vincent grenadines saint vincent grenadines flag nation country banner 🇻🇨"
+      "match": "st vincent grenadines saint flag nation country banner 🇻🇨"
     },
     {
       "title": "Venezuela",
@@ -14668,7 +14668,7 @@
         "path": "icons/british_virgin_islands.png"
       },
       "arg": "🇻🇬",
-      "match": "british virgin islands british virgin islands bvi flag nation country banner 🇻🇬"
+      "match": "british virgin islands bvi flag nation country banner 🇻🇬"
     },
     {
       "title": "U.S. Virgin Islands",
@@ -14677,7 +14677,7 @@
         "path": "icons/us_virgin_islands.png"
       },
       "arg": "🇻🇮",
-      "match": "us virgin islands virgin islands us flag nation country banner 🇻🇮"
+      "match": "us virgin islands flag nation country banner 🇻🇮"
     },
     {
       "title": "Vietnam",
@@ -14704,7 +14704,7 @@
         "path": "icons/wallis_futuna.png"
       },
       "arg": "🇼🇫",
-      "match": "wallis futuna wallis futuna flag nation country banner 🇼🇫"
+      "match": "wallis futuna flag nation country banner 🇼🇫"
     },
     {
       "title": "Samoa",
@@ -14749,7 +14749,7 @@
         "path": "icons/south_africa.png"
       },
       "arg": "🇿🇦",
-      "match": "south africa south africa flag nation country banner 🇿🇦"
+      "match": "south africa flag nation country banner 🇿🇦"
     },
     {
       "title": "Zambia",
