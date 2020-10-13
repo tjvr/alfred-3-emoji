@@ -3,7 +3,7 @@ Emoji 🙃
 
 An Alfred workflow for finding emoji.
 
-- **Up-to-date**: Supports [Emoji 11.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+- **Up-to-date**: Supports [Emoji 12.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 - **Fast**: Uses Alfred's built-in filtering
 - **Easy to Install**: No extra apps or scripts required!
 
