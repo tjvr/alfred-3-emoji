@@ -15,7 +15,10 @@ with open('raw-emojis.json', 'r', encoding='utf-8') as f:
 
 # Get the emoji library
 with open('emojilib.json', 'r', encoding='utf-8') as f:
+    keyword_library = json.load(f)
+with open('unicode-emoji.json', 'r', encoding='utf-8') as f:
     library = json.load(f)
+
 
 def match_emoji(char):
     if char == '*\u20e3':
@@ -24,9 +27,9 @@ def match_emoji(char):
         return emojis[char]
     return emojis[char.rstrip('\ufe0f')]
 
-for name, library_info in library.items():
-    char = library_info['char']
-    keywords = library_info['keywords']
+for char, library_info in library.items():
+    name = library_info['name']
+    keywords = keyword_library[char]
 
     info = match_emoji(char)
     info['short_name'] = name

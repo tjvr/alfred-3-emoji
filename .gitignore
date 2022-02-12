@@ -2,5 +2,6 @@ Emoji.alfredworkflow
 
 raw-emojis.json
 emojilib.json
+unicode-emoji.json
 full-emoji-list.html
 venv/
