@@ -14,10 +14,10 @@ alfred-emoji.json: raw-emojis.json emojilib.json unicode-emoji.json codes.json
 	python3 make_workflow.py
 
 emojilib.json:
-	curl https://raw.githubusercontent.com/muan/emojilib/main/dist/emoji-en-US.json > $@
+	curl https://raw.githubusercontent.com/muan/emojilib/v3.0.8/dist/emoji-en-US.json > $@
 
 unicode-emoji.json:
-	curl https://raw.githubusercontent.com/muan/unicode-emoji-json/main/data-by-emoji.json > $@
+	curl https://raw.githubusercontent.com/muan/unicode-emoji-json/v0.5.0/data-by-emoji.json > $@
 
 raw-emojis.json: full-emoji-list.html
 	python3 parse_html.py
