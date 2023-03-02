@@ -25,3 +25,5 @@ raw-emojis.json: full-emoji-list.html
 full-emoji-list.html:
 	curl https://unicode.org/emoji/charts/full-emoji-list.html > $@
 
+clean: Emoji.alfredworkflow emojilib.json unicode-emoji.json raw-emojis.json full-emoji-list.html
+.PHONY: all clean
