@@ -12,7 +12,3 @@ Includes GitHub/Slack-style colon codes such as `:slight_smile:` where relevant.
 Includes emoji aliases from [muan/emojilib](https://github.com/muan/emojilib), so you can e.g. search for "mind blown" to find 🤯 “Exploding Head”.
 
 [Download ⬇️](https://github.com/tjvr/alfred-3-emoji/releases/download/0.3.0/Emoji.alfredworkflow)
-
-### TODO
-
-- [ ] Update emojilib dependency
