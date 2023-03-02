@@ -1,0 +1,22 @@
+name: Build Alfred Workflow
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install apt dependencies
+      run: |
+        sudo apt install libxml2-dev libxslt-dev
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - name: Make
+      run: make
+    - uses: actions/upload-artifact@v3
+      with:
+        name: Emoji.alfredworkflow
+        path: Emoji.alfredworkflow
+

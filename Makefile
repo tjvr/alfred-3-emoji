@@ -14,7 +14,7 @@ alfred-emoji.json: raw-emojis.json emojilib.json codes.json
 	python3 make_workflow.py
 
 emojilib.json:
-	curl https://raw.githubusercontent.com/muan/emojilib/master/emojis.json > emojilib.json
+	curl https://raw.githubusercontent.com/muan/emojilib/v2.4.0/emojis.json > emojilib.json
 
 raw-emojis.json: full-emoji-list.html
 	python3 parse_html.py

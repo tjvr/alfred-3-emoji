@@ -91,6 +91,15 @@
       "match": "upside down face flipped silly smile 🙃"
     },
     {
+      "title": "melting face",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/melting_face.png"
+      },
+      "arg": "🫠",
+      "match": "melting face 🫠"
+    },
+    {
       "title": "winking face",
       "subtitle": ":wink:",
       "icon": {
@@ -253,7 +262,7 @@
       "match": "money mouth face rich dollar 🤑"
     },
     {
-      "title": "hugging face",
+      "title": "smiling face with open hands",
       "subtitle": "",
       "icon": {
         "path": "icons/hugs.png"
@@ -269,6 +278,24 @@
       },
       "arg": "🤭",
       "match": "hand over mouth face whoops shock surprise 🤭"
+    },
+    {
+      "title": "face with open eyes and hand over mouth",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/face_with_open_eyes_and_hand_over_mouth.png"
+      },
+      "arg": "🫢",
+      "match": "face with open eyes and hand over mouth 🫢"
+    },
+    {
+      "title": "face with peeking eye",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/face_with_peeking_eye.png"
+      },
+      "arg": "🫣",
+      "match": "face with peeking eye 🫣"
     },
     {
       "title": "shushing face",
@@ -287,6 +314,15 @@
       },
       "arg": "🤔",
       "match": "thinking face hmmm think consider 🤔"
+    },
+    {
+      "title": "saluting face",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/saluting_face.png"
+      },
+      "arg": "🫡",
+      "match": "saluting face 🫡"
     },
     {
       "title": "zipper-mouth face",
@@ -332,6 +368,15 @@
       },
       "arg": "😶",
       "match": "no_mouth no mouth face hellokitty 😶"
+    },
+    {
+      "title": "dotted line face",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/dotted_line_face.png"
+      },
+      "arg": "🫥",
+      "match": "dotted line face 🫥"
     },
     {
       "title": "face in clouds",
@@ -395,6 +440,15 @@
       },
       "arg": "🤥",
       "match": "lying face lie pinocchio 🤥"
+    },
+    {
+      "title": "shaking face",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/shaking_face.png"
+      },
+      "arg": "🫨",
+      "match": "shaking face 🫨"
     },
     {
       "title": "relieved face",
@@ -523,7 +577,7 @@
       "match": "woozy face dizzy intoxicated tipsy wavy 🥴"
     },
     {
-      "title": "knocked-out face",
+      "title": "face with crossed-out eyes",
       "subtitle": ":dizzy_face:",
       "icon": {
         "path": "icons/dizzy_face.png"
@@ -613,6 +667,15 @@
       "match": "confused face indifference huh weird hmmm :/ 😕"
     },
     {
+      "title": "face with diagonal mouth",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/face_with_diagonal_mouth.png"
+      },
+      "arg": "🫤",
+      "match": "face with diagonal mouth 🫤"
+    },
+    {
       "title": "worried face",
       "subtitle": ":worried:",
       "icon": {
@@ -683,6 +746,15 @@
       },
       "arg": "🥺",
       "match": "pleading face begging mercy 🥺"
+    },
+    {
+      "title": "face holding back tears",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/face_holding_back_tears.png"
+      },
+      "arg": "🥹",
+      "match": "face holding back tears 🥹"
     },
     {
       "title": "frowning face with open mouth",
@@ -829,7 +901,7 @@
       "match": "triumph face gas phew proud pride 😤"
     },
     {
-      "title": "pouting face",
+      "title": "enraged face",
       "subtitle": ":rage:",
       "icon": {
         "path": "icons/rage.png"
@@ -1072,15 +1144,6 @@
       "match": "speak_no_evil speak no evil monkey animal nature omg 🙊"
     },
     {
-      "title": "kiss mark",
-      "subtitle": ":kiss:",
-      "icon": {
-        "path": "icons/kiss.png"
-      },
-      "arg": "💋",
-      "match": "kiss face lips love like affection valentines 💋"
-    },
-    {
       "title": "love letter",
       "subtitle": ":love_letter:",
       "icon": {
@@ -1207,6 +1270,15 @@
       "match": "heart love like valentines ❤️"
     },
     {
+      "title": "pink heart",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/pink_heart.png"
+      },
+      "arg": "🩷",
+      "match": "pink heart 🩷"
+    },
+    {
       "title": "orange heart",
       "subtitle": "",
       "icon": {
@@ -1243,6 +1315,15 @@
       "match": "blue_heart blue heart love like affection valentines 💙"
     },
     {
+      "title": "light blue heart",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/light_blue_heart.png"
+      },
+      "arg": "🩵",
+      "match": "light blue heart 🩵"
+    },
+    {
       "title": "purple heart",
       "subtitle": ":purple_heart:",
       "icon": {
@@ -1270,6 +1351,15 @@
       "match": "black heart evil 🖤"
     },
     {
+      "title": "grey heart",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/grey_heart.png"
+      },
+      "arg": "🩶",
+      "match": "grey heart 🩶"
+    },
+    {
       "title": "white heart",
       "subtitle": "",
       "icon": {
@@ -1277,6 +1367,15 @@
       },
       "arg": "🤍",
       "match": "white heart 🤍"
+    },
+    {
+      "title": "kiss mark",
+      "subtitle": ":kiss:",
+      "icon": {
+        "path": "icons/kiss.png"
+      },
+      "arg": "💋",
+      "match": "kiss face lips love like affection valentines 💋"
     },
     {
       "title": "hundred points",
@@ -1342,15 +1441,6 @@
       "match": "hole embarrassing 🕳"
     },
     {
-      "title": "bomb",
-      "subtitle": ":bomb:",
-      "icon": {
-        "path": "icons/bomb.png"
-      },
-      "arg": "💣",
-      "match": "bomb boom explode explosion terrorism 💣"
-    },
-    {
       "title": "speech balloon",
       "subtitle": ":speech_balloon:",
       "icon": {
@@ -1396,7 +1486,7 @@
       "match": "thought_balloon thought balloon bubble cloud speech thinking dream 💭"
     },
     {
-      "title": "zzz",
+      "title": "ZZZ",
       "subtitle": ":zzz:",
       "icon": {
         "path": "icons/zzz.png"
@@ -1450,6 +1540,60 @@
       "match": "vulcan salute hand fingers spock star trek 🖖"
     },
     {
+      "title": "rightwards hand",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/rightwards_hand.png"
+      },
+      "arg": "🫱",
+      "match": "rightwards hand 🫱"
+    },
+    {
+      "title": "leftwards hand",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/leftwards_hand.png"
+      },
+      "arg": "🫲",
+      "match": "leftwards hand 🫲"
+    },
+    {
+      "title": "palm down hand",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/palm_down_hand.png"
+      },
+      "arg": "🫳",
+      "match": "palm down hand 🫳"
+    },
+    {
+      "title": "palm up hand",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/palm_up_hand.png"
+      },
+      "arg": "🫴",
+      "match": "palm up hand 🫴"
+    },
+    {
+      "title": "leftwards pushing hand",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/leftwards_pushing_hand.png"
+      },
+      "arg": "🫷",
+      "match": "leftwards pushing hand 🫷"
+    },
+    {
+      "title": "rightwards pushing hand",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/rightwards_pushing_hand.png"
+      },
+      "arg": "🫸",
+      "match": "rightwards pushing hand 🫸"
+    },
+    {
       "title": "OK hand",
       "subtitle": ":ok_hand:",
       "icon": {
@@ -1493,6 +1637,15 @@
       },
       "arg": "🤞",
       "match": "crossed fingers good lucky 🤞"
+    },
+    {
+      "title": "hand with index finger and thumb crossed",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/hand_with_index_finger_and_thumb_crossed.png"
+      },
+      "arg": "🫰",
+      "match": "hand with index finger and thumb crossed 🫰"
     },
     {
       "title": "love-you gesture",
@@ -1576,6 +1729,15 @@
       "match": "point_up point up hand fingers direction ☝"
     },
     {
+      "title": "index pointing at the viewer",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/index_pointing_at_the_viewer.png"
+      },
+      "arg": "🫵",
+      "match": "index pointing at the viewer 🫵"
+    },
+    {
       "title": "thumbs up",
       "subtitle": ":+1: :thumbsup:",
       "icon": {
@@ -1646,6 +1808,15 @@
       },
       "arg": "🙌",
       "match": "raised_hands raised hands gesture hooray yea celebration 🙌"
+    },
+    {
+      "title": "heart hands",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/heart_hands.png"
+      },
+      "arg": "🫶",
+      "match": "heart hands 🫶"
     },
     {
       "title": "open hands",
@@ -1862,6 +2033,15 @@
       },
       "arg": "👄",
       "match": "lips mouth kiss 👄"
+    },
+    {
+      "title": "biting lip",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/biting_lip.png"
+      },
+      "arg": "🫦",
+      "match": "biting lip 🫦"
     },
     {
       "title": "baby",
@@ -2935,6 +3115,15 @@
       "match": "construction worker woman female human wip build labor 👷‍♀️"
     },
     {
+      "title": "person with crown",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/person_with_crown.png"
+      },
+      "arg": "🫅",
+      "match": "person with crown 🫅"
+    },
+    {
       "title": "prince",
       "subtitle": "",
       "icon": {
@@ -3059,6 +3248,24 @@
       },
       "arg": "🤰",
       "match": "pregnant woman baby 🤰"
+    },
+    {
+      "title": "pregnant man",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/pregnant_man.png"
+      },
+      "arg": "🫃",
+      "match": "pregnant man 🫃"
+    },
+    {
+      "title": "pregnant person",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/pregnant_person.png"
+      },
+      "arg": "🫄",
+      "match": "pregnant person 🫄"
     },
     {
       "title": "breast-feeding",
@@ -3374,6 +3581,15 @@
       },
       "arg": "🧟‍♀️",
       "match": "woman zombie female undead walking dead 🧟‍♀️"
+    },
+    {
+      "title": "troll",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/troll.png"
+      },
+      "arg": "🧌",
+      "match": "troll 🧌"
     },
     {
       "title": "person getting massage",
@@ -4762,6 +4978,24 @@
       "match": "horse animal brown nature 🐴"
     },
     {
+      "title": "moose",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/moose.png"
+      },
+      "arg": "🫎",
+      "match": "moose 🫎"
+    },
+    {
+      "title": "donkey",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/donkey.png"
+      },
+      "arg": "🫏",
+      "match": "donkey 🫏"
+    },
+    {
       "title": "horse",
       "subtitle": ":racehorse:",
       "icon": {
@@ -5320,6 +5554,33 @@
       "match": "parrot animal nature bird pirate talk 🦜"
     },
     {
+      "title": "wing",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/wing.png"
+      },
+      "arg": "🪽",
+      "match": "wing 🪽"
+    },
+    {
+      "title": "black bird",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/black_bird.png"
+      },
+      "arg": "🐦‍⬛",
+      "match": "black bird 🐦‍⬛"
+    },
+    {
+      "title": "goose",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/goose.png"
+      },
+      "arg": "🪿",
+      "match": "goose 🪿"
+    },
+    {
       "title": "frog",
       "subtitle": ":frog:",
       "icon": {
@@ -5489,6 +5750,24 @@
       },
       "arg": "🐚",
       "match": "shell nature sea beach 🐚"
+    },
+    {
+      "title": "coral",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/coral.png"
+      },
+      "arg": "🪸",
+      "match": "coral 🪸"
+    },
+    {
+      "title": "jellyfish",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/jellyfish.png"
+      },
+      "arg": "🪼",
+      "match": "jellyfish 🪼"
     },
     {
       "title": "snail",
@@ -5662,6 +5941,15 @@
       "match": "white_flower white flower japanese spring 💮"
     },
     {
+      "title": "lotus",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/lotus.png"
+      },
+      "arg": "🪷",
+      "match": "lotus 🪷"
+    },
+    {
       "title": "rosette",
       "subtitle": "",
       "icon": {
@@ -5723,6 +6011,15 @@
       },
       "arg": "🌷",
       "match": "tulip flowers plant nature summer spring 🌷"
+    },
+    {
+      "title": "hyacinth",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/hyacinth.png"
+      },
+      "arg": "🪻",
+      "match": "hyacinth 🪻"
     },
     {
       "title": "seedling",
@@ -5840,6 +6137,33 @@
       },
       "arg": "🍃",
       "match": "leaves nature plant tree vegetable grass lawn spring 🍃"
+    },
+    {
+      "title": "empty nest",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/empty_nest.png"
+      },
+      "arg": "🪹",
+      "match": "empty nest 🪹"
+    },
+    {
+      "title": "nest with eggs",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/nest_with_eggs.png"
+      },
+      "arg": "🪺",
+      "match": "nest with eggs 🪺"
+    },
+    {
+      "title": "mushroom",
+      "subtitle": ":mushroom:",
+      "icon": {
+        "path": "icons/mushroom.png"
+      },
+      "arg": "🍄",
+      "match": "mushroom plant vegetable 🍄"
     },
     {
       "title": "grapes",
@@ -6121,15 +6445,6 @@
       "match": "onion 🧅"
     },
     {
-      "title": "mushroom",
-      "subtitle": ":mushroom:",
-      "icon": {
-        "path": "icons/mushroom.png"
-      },
-      "arg": "🍄",
-      "match": "mushroom plant vegetable 🍄"
-    },
-    {
       "title": "peanuts",
       "subtitle": "",
       "icon": {
@@ -6139,6 +6454,15 @@
       "match": "peanuts food nut 🥜"
     },
     {
+      "title": "beans",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/beans.png"
+      },
+      "arg": "🫘",
+      "match": "beans 🫘"
+    },
+    {
       "title": "chestnut",
       "subtitle": ":chestnut:",
       "icon": {
@@ -6146,6 +6470,24 @@
       },
       "arg": "🌰",
       "match": "chestnut food squirrel 🌰"
+    },
+    {
+      "title": "ginger root",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/ginger_root.png"
+      },
+      "arg": "🫚",
+      "match": "ginger root 🫚"
+    },
+    {
+      "title": "pea pod",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/pea_pod.png"
+      },
+      "arg": "🫛",
+      "match": "pea pod 🫛"
     },
     {
       "title": "bread",
@@ -6904,6 +7246,15 @@
       "match": "tumbler glass drink beverage drunk alcohol liquor booze bourbon scotch whisky shot 🥃"
     },
     {
+      "title": "pouring liquid",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/pouring_liquid.png"
+      },
+      "arg": "🫗",
+      "match": "pouring liquid 🫗"
+    },
+    {
       "title": "cup with straw",
       "subtitle": "",
       "icon": {
@@ -6992,6 +7343,15 @@
       },
       "arg": "🔪",
       "match": "hocho knife blade cutlery kitchen weapon 🔪"
+    },
+    {
+      "title": "jar",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/jar.png"
+      },
+      "arg": "🫙",
+      "match": "jar 🫙"
     },
     {
       "title": "amphora",
@@ -7552,6 +7912,15 @@
       "match": "carousel_horse carousel horse photo carnival 🎠"
     },
     {
+      "title": "playground slide",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/playground_slide.png"
+      },
+      "arg": "🛝",
+      "match": "playground slide 🛝"
+    },
+    {
       "title": "ferris wheel",
       "subtitle": ":ferris_wheel:",
       "icon": {
@@ -7984,6 +8353,15 @@
       "match": "fuelpump gas station petroleum ⛽"
     },
     {
+      "title": "wheel",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/wheel.png"
+      },
+      "arg": "🛞",
+      "match": "wheel 🛞"
+    },
+    {
       "title": "police car light",
       "subtitle": ":rotating_light:",
       "icon": {
@@ -8036,6 +8414,15 @@
       },
       "arg": "⚓",
       "match": "anchor ship ferry sea boat ⚓"
+    },
+    {
+      "title": "ring buoy",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/ring_buoy.png"
+      },
+      "arg": "🛟",
+      "match": "ring buoy 🛟"
     },
     {
       "title": "sailboat",
@@ -9451,6 +9838,15 @@
       "match": "kite 🪁"
     },
     {
+      "title": "water pistol",
+      "subtitle": ":gun:",
+      "icon": {
+        "path": "icons/gun.png"
+      },
+      "arg": "🔫",
+      "match": "gun violence weapon pistol revolver 🔫"
+    },
+    {
       "title": "pool 8 ball",
       "subtitle": ":8ball:",
       "icon": {
@@ -9476,15 +9872,6 @@
       },
       "arg": "🪄",
       "match": "magic wand 🪄"
-    },
-    {
-      "title": "nazar amulet",
-      "subtitle": "",
-      "icon": {
-        "path": "icons/nazar_amulet.png"
-      },
-      "arg": "🧿",
-      "match": "nazar amulet bead charm 🧿"
     },
     {
       "title": "video game",
@@ -9548,6 +9935,15 @@
       },
       "arg": "🪅",
       "match": "piñata 🪅"
+    },
+    {
+      "title": "mirror ball",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/mirror_ball.png"
+      },
+      "arg": "🪩",
+      "match": "mirror ball 🪩"
     },
     {
       "title": "nesting dolls",
@@ -9874,6 +10270,15 @@
       "match": "womans_clothes womans clothes fashion shopping bags female 👚"
     },
     {
+      "title": "folding hand fan",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/folding_hand_fan.png"
+      },
+      "arg": "🪭",
+      "match": "folding hand fan 🪭"
+    },
+    {
       "title": "purse",
       "subtitle": ":purse:",
       "icon": {
@@ -9998,6 +10403,15 @@
       },
       "arg": "👢",
       "match": "boot shoes fashion 👢"
+    },
+    {
+      "title": "hair pick",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/hair_pick.png"
+      },
+      "arg": "🪮",
+      "match": "hair pick 🪮"
     },
     {
       "title": "crown",
@@ -10342,6 +10756,24 @@
       "match": "long drum 🪘"
     },
     {
+      "title": "maracas",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/maracas.png"
+      },
+      "arg": "🪇",
+      "match": "maracas 🪇"
+    },
+    {
+      "title": "flute",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/flute.png"
+      },
+      "arg": "🪈",
+      "match": "flute 🪈"
+    },
+    {
       "title": "mobile phone",
       "subtitle": ":iphone:",
       "icon": {
@@ -10403,6 +10835,15 @@
       },
       "arg": "🔋",
       "match": "battery power energy sustain 🔋"
+    },
+    {
+      "title": "low battery",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/low_battery.png"
+      },
+      "arg": "🪫",
+      "match": "low battery 🪫"
     },
     {
       "title": "electric plug",
@@ -11404,13 +11845,13 @@
       "match": "crossed swords weapon ⚔"
     },
     {
-      "title": "water pistol",
-      "subtitle": ":gun:",
+      "title": "bomb",
+      "subtitle": ":bomb:",
       "icon": {
-        "path": "icons/gun.png"
+        "path": "icons/bomb.png"
       },
-      "arg": "🔫",
-      "match": "gun violence weapon pistol revolver 🔫"
+      "arg": "💣",
+      "match": "bomb boom explode explosion terrorism 💣"
     },
     {
       "title": "boomerang",
@@ -11665,6 +12106,15 @@
       "match": "adhesive bandage 🩹"
     },
     {
+      "title": "crutch",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/crutch.png"
+      },
+      "arg": "🩼",
+      "match": "crutch 🩼"
+    },
+    {
       "title": "stethoscope",
       "subtitle": "",
       "icon": {
@@ -11672,6 +12122,15 @@
       },
       "arg": "🩺",
       "match": "stethoscope 🩺"
+    },
+    {
+      "title": "x-ray",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/x-ray.png"
+      },
+      "arg": "🩻",
+      "match": "x-ray 🩻"
     },
     {
       "title": "door",
@@ -11854,6 +12313,15 @@
       "match": "soap bar bathing cleaning lather 🧼"
     },
     {
+      "title": "bubbles",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/bubbles.png"
+      },
+      "arg": "🫧",
+      "match": "bubbles 🫧"
+    },
+    {
       "title": "toothbrush",
       "subtitle": "",
       "icon": {
@@ -11926,6 +12394,24 @@
       "match": "funeral urn dead die death rip ashes ⚱"
     },
     {
+      "title": "nazar amulet",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/nazar_amulet.png"
+      },
+      "arg": "🧿",
+      "match": "nazar amulet bead charm 🧿"
+    },
+    {
+      "title": "hamsa",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/hamsa.png"
+      },
+      "arg": "🪬",
+      "match": "hamsa 🪬"
+    },
+    {
       "title": "moai",
       "subtitle": ":moyai:",
       "icon": {
@@ -11942,6 +12428,15 @@
       },
       "arg": "🪧",
       "match": "placard 🪧"
+    },
+    {
+      "title": "identification card",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/identification_card.png"
+      },
+      "arg": "🪪",
+      "match": "identification card 🪪"
     },
     {
       "title": "ATM sign",
@@ -12475,6 +12970,15 @@
       "match": "six_pointed_star six pointed star purple-square religion jewish hexagram 🔯"
     },
     {
+      "title": "khanda",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/khanda.png"
+      },
+      "arg": "🪯",
+      "match": "khanda 🪯"
+    },
+    {
       "title": "Aries",
       "subtitle": ":aries:",
       "icon": {
@@ -12790,6 +13294,15 @@
       "match": "signal_strength signal strength blue-square reception phone internet connection wifi bluetooth bars 📶"
     },
     {
+      "title": "wireless",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/wireless.png"
+      },
+      "arg": "🛜",
+      "match": "wireless 🛜"
+    },
+    {
       "title": "vibration mode",
       "subtitle": ":vibration_mode:",
       "icon": {
@@ -12869,6 +13382,15 @@
       },
       "arg": "➗",
       "match": "heavy_division_sign heavy division sign divide math calculation ➗"
+    },
+    {
+      "title": "heavy equals sign",
+      "subtitle": "",
+      "icon": {
+        "path": "icons/heavy_equals_sign.png"
+      },
+      "arg": "🟰",
+      "match": "heavy equals sign 🟰"
     },
     {
       "title": "infinity",
