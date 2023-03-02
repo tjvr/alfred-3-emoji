@@ -29,11 +29,11 @@ def match_emoji(char):
 
 for char, library_info in library.items():
     name = library_info['name']
-    keywords = keyword_library[char]
+    keywords = keyword_library.get(char)
 
     info = match_emoji(char)
     info['short_name'] = name
-    info['keywords'] = keywords
+    info['keywords'] = keywords or []
 
     # Trust emojilib more than Unicode
     info['char'] = char
